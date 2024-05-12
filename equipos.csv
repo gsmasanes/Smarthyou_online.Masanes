@@ -1,0 +1,1001 @@
+id_equipo;marca;descripcion;color;ram;mp;pulgadas;gama;importe_sin_iva
+1;Samsung;Galaxy S21;negro;256GB;12mp;8.5;alta plus;1724516.95
+2;OnePlus;9;amarillo;256GB;8mp;6.4;media plus;305114.6
+3;iPhone;12;amarillo;256GB;24mp;8.7;premium plata;1908312.38
+4;iPhone;12;rojo;512GB;20mp;4.0;alta plus;177148.62
+5;Samsung;Galaxy S21;gris plata;512GB;16mp;4.5;premium plata;684715.16
+6;Samsung;Galaxy S21;gris plata;256GB;16mp;5.0;alta plus;647324.51
+7;iPhone;12;amarillo;64GB;8mp;6.0;alta plus;1532214.4
+8;Huawei;P40 ;azul;128GB;16mp;9.7;alta;1080518.5
+9;Google;Pixel 5;gris plomo;64GB;16mp;7.7;premium oro;88791.93
+10;Huawei;P40 ;rojo;64GB;20mp;7.6;alta plus;1998330.93
+11;Google;Pixel 5;azul;128GB;20mp;6.1;premium oro;185701.01
+12;OnePlus;9;amarillo;128GB;12mp;6.0;premium oro;551196.41
+13;Samsung;Galaxy S21;rosa;64GB;20mp;8.5;alta plus;1370347.02
+14;Huawei;P40 ;blanco;64GB;24mp;8.1;alta plus;1986411.02
+15;Huawei;P40 ;rosa;512GB;16mp;5.7;media;1722562.93
+16;iPhone;12;rosa;256GB;12mp;6.9;alta;629967.62
+17;OnePlus;9;amarillo;128GB;16mp;9.6;alta plus;1339544.01
+18;Huawei;P40 ;negro;128GB;16mp;7.7;alta plus;623958.52
+19;iPhone;12;amarillo;256GB;20mp;7.8;media plus;1475577.84
+20;OnePlus;9;rosa;512GB;24mp;4.2;media;427667.45
+21;OnePlus;9;negro;512GB;16mp;7.6;alta;1719726.39
+22;iPhone;12;gris plata;256GB;16mp;5.7;media plus;41300.1
+23;Huawei;P40 ;gris plata;128GB;8mp;5.8;premium oro;234716.33
+24;Huawei;P40 ;azul;512GB;24mp;4.3;premium oro;762893.35
+25;Samsung;Galaxy S21;gris plata;64GB;20mp;6.0;alta plus;1099720.52
+26;Google;Pixel 5;gris plata;256GB;24mp;5.6;alta plus;346761.45
+27;Google;Pixel 5;negro;128GB;24mp;6.6;media;268609.11
+28;Huawei;P40 ;amarillo;128GB;12mp;9.5;media plus;1513492.19
+29;Huawei;P40 ;gris plomo;64GB;20mp;5.7;alta;685765.31
+30;Google;Pixel 5;negro;512GB;8mp;5.6;media;1229849.63
+31;OnePlus;9;blanco;128GB;20mp;9.7;alta plus;610750.61
+32;Samsung;Galaxy S21;gris plata;256GB;24mp;9.8;media;1248343.05
+33;Google;Pixel 5;gris plata;256GB;16mp;6.2;premium oro;323840.27
+34;Huawei;P40 ;rosa;256GB;16mp;7.5;premium oro;521385.98
+35;Samsung;Galaxy S21;rojo;128GB;24mp;7.7;media plus;599390.86
+36;iPhone;12;azul;64GB;24mp;4.8;alta plus;94932.31
+37;Google;Pixel 5;negro;512GB;12mp;7.3;media plus;1889387.02
+38;Huawei;P40 ;gris plata;64GB;16mp;5.3;premium oro;1990432.96
+39;Samsung;Galaxy S21;blanco;64GB;8mp;5.7;premium plata;365466.12
+40;Huawei;P40 ;rojo;256GB;24mp;7.9;premium oro;1400218.77
+41;Samsung;Galaxy S21;rojo;512GB;8mp;5.2;premium plata;1610566.05
+42;OnePlus;9;blanco;256GB;20mp;4.9;alta plus;130210.72
+43;Samsung;Galaxy S21;blanco;64GB;12mp;7.6;premium plata;812600.37
+44;Samsung;Galaxy S21;rojo;256GB;24mp;7.3;premium plata;1651442.17
+45;OnePlus;9;gris plata;512GB;8mp;5.5;premium oro;1614232.73
+46;Google;Pixel 5;gris plata;256GB;20mp;8.0;alta;1211087.78
+47;Samsung;Galaxy S21;azul;128GB;12mp;7.8;alta;804045.3
+48;Google;Pixel 5;gris plata;256GB;16mp;9.7;alta plus;1962855.35
+49;iPhone;12;amarillo;512GB;24mp;4.7;alta;876303.34
+50;iPhone;12;rojo;128GB;12mp;8.9;media;1580105.25
+51;Google;Pixel 5;gris plata;256GB;16mp;9.7;premium plata;1618403.54
+52;OnePlus;9;azul;64GB;8mp;8.5;premium oro;1790217.42
+53;iPhone;12;negro;512GB;24mp;8.1;media;1411957.6
+54;OnePlus;9;gris plata;64GB;12mp;7.0;media;1091570.79
+55;OnePlus;9;gris plata;128GB;24mp;6.3;premium plata;1825086.6
+56;Huawei;P40 ;azul;512GB;12mp;9.9;premium plata;1611261.29
+57;Samsung;Galaxy S21;rojo;128GB;20mp;5.2;media plus;1290001.81
+58;iPhone;12;rojo;64GB;24mp;5.5;alta;1139757.2
+59;Samsung;Galaxy S21;amarillo;256GB;20mp;6.9;alta;1283979.73
+60;Huawei;P40 ;negro;128GB;16mp;7.3;media plus;1284840.48
+61;OnePlus;9;blanco;256GB;12mp;9.8;media;773971.95
+62;Huawei;P40 ;gris plomo;512GB;8mp;6.5;alta;1898226.06
+63;Huawei;P40 ;negro;512GB;16mp;8.4;alta plus;1093979.13
+64;OnePlus;9;negro;256GB;12mp;7.1;media plus;160943.23
+65;iPhone;12;negro;64GB;8mp;9.9;alta plus;910530.24
+66;Google;Pixel 5;azul;512GB;20mp;4.7;premium plata;1542617.71
+67;Samsung;Galaxy S21;amarillo;512GB;24mp;8.6;media plus;1171505.35
+68;Google;Pixel 5;rojo;128GB;16mp;5.5;alta plus;564858.36
+69;Google;Pixel 5;azul;256GB;16mp;9.1;premium plata;1447362.79
+70;Samsung;Galaxy S21;gris plomo;256GB;24mp;8.2;alta plus;1351099.33
+71;Huawei;P40 ;azul;128GB;8mp;7.2;media;116081.16
+72;Huawei;P40 ;azul;128GB;20mp;7.2;media plus;269885.82
+73;Google;Pixel 5;rosa;64GB;16mp;6.2;alta plus;817050.8
+74;Huawei;P40 ;rosa;256GB;20mp;7.6;media;1260101.21
+75;OnePlus;9;rosa;256GB;12mp;5.0;media plus;844785.99
+76;Huawei;P40 ;rosa;64GB;24mp;4.6;alta plus;1020287.18
+77;OnePlus;9;negro;256GB;20mp;6.5;alta plus;654816.65
+78;Samsung;Galaxy S21;blanco;128GB;8mp;4.8;premium plata;661462.99
+79;Huawei;P40 ;rosa;128GB;16mp;7.9;alta plus;151259.0
+80;Google;Pixel 5;amarillo;128GB;20mp;5.5;premium plata;534802.26
+81;Huawei;P40 ;gris plomo;128GB;12mp;8.5;alta plus;1664229.56
+82;iPhone;12;gris plata;64GB;16mp;8.4;premium plata;762743.03
+83;OnePlus;9;negro;512GB;12mp;5.4;alta plus;1380434.51
+84;Huawei;P40 ;negro;256GB;24mp;7.6;premium oro;466373.63
+85;OnePlus;9;amarillo;64GB;8mp;7.4;media plus;879929.46
+86;iPhone;12;rojo;128GB;24mp;4.7;media plus;1052469.37
+87;iPhone;12;azul;512GB;12mp;9.2;media plus;480490.79
+88;iPhone;12;rosa;512GB;20mp;8.8;alta plus;1632092.4
+89;Huawei;P40 ;blanco;256GB;12mp;7.7;premium oro;1787398.2
+90;Samsung;Galaxy S21;blanco;512GB;20mp;5.5;alta plus;515976.81
+91;Samsung;Galaxy S21;amarillo;128GB;8mp;4.9;premium oro;1414437.47
+92;Huawei;P40 ;blanco;64GB;8mp;7.4;premium plata;1241754.6
+93;Samsung;Galaxy S21;blanco;512GB;16mp;4.3;premium plata;297699.95
+94;OnePlus;9;rojo;512GB;12mp;6.6;premium plata;1272377.29
+95;iPhone;12;negro;64GB;12mp;9.3;media plus;912180.52
+96;Huawei;P40 ;gris plata;64GB;16mp;6.0;alta plus;1852240.94
+97;iPhone;12;rojo;256GB;24mp;4.6;premium plata;411230.71
+98;iPhone;12;gris plata;128GB;24mp;4.3;alta;1682434.72
+99;iPhone;12;amarillo;256GB;24mp;8.8;media plus;1291690.87
+100;Samsung;Galaxy S21;amarillo;128GB;20mp;5.3;media plus;787001.22
+101;OnePlus;9;rosa;256GB;16mp;8.6;alta;1434579.43
+102;iPhone;12;negro;128GB;12mp;7.4;media;1704623.97
+103;OnePlus;9;azul;256GB;12mp;6.6;media;100335.81
+104;Samsung;Galaxy S21;rojo;512GB;16mp;5.9;media plus;753846.9
+105;iPhone;12;gris plomo;512GB;20mp;6.4;alta;1534770.08
+106;iPhone;12;gris plomo;128GB;24mp;5.0;alta plus;1567290.45
+107;iPhone;12;gris plata;64GB;20mp;6.2;media plus;1978717.05
+108;Google;Pixel 5;gris plata;64GB;16mp;8.7;premium oro;1090516.19
+109;OnePlus;9;gris plata;64GB;20mp;4.3;premium oro;821945.64
+110;Samsung;Galaxy S21;amarillo;64GB;8mp;5.6;premium oro;1748876.51
+111;Google;Pixel 5;rojo;512GB;16mp;4.2;premium oro;592145.96
+112;iPhone;12;gris plata;256GB;12mp;5.6;premium oro;946095.11
+113;Samsung;Galaxy S21;gris plomo;512GB;16mp;4.2;premium plata;1173662.63
+114;iPhone;12;rojo;512GB;16mp;7.8;alta plus;943814.0
+115;Google;Pixel 5;gris plata;256GB;24mp;4.6;media plus;1236066.82
+116;Samsung;Galaxy S21;gris plomo;64GB;24mp;7.9;premium plata;568330.48
+117;Huawei;P40 ;amarillo;512GB;8mp;5.5;alta plus;812603.0
+118;iPhone;12;negro;256GB;16mp;8.4;alta;1268076.86
+119;iPhone;12;azul;256GB;12mp;6.6;alta;1050414.67
+120;Huawei;P40 ;gris plata;512GB;20mp;6.5;alta;1432558.9
+121;Google;Pixel 5;rojo;512GB;20mp;4.4;premium plata;1310716.63
+122;Google;Pixel 5;blanco;512GB;20mp;8.7;alta plus;566014.72
+123;Huawei;P40 ;rosa;64GB;12mp;6.1;alta plus;1684256.06
+124;Samsung;Galaxy S21;amarillo;256GB;8mp;8.9;alta plus;1476238.19
+125;Huawei;P40 ;gris plomo;128GB;24mp;8.5;media;336366.39
+126;Google;Pixel 5;azul;64GB;8mp;6.0;alta plus;1415450.42
+127;OnePlus;9;rosa;128GB;16mp;6.3;media plus;1453696.74
+128;iPhone;12;blanco;64GB;8mp;7.9;alta;1177194.37
+129;Huawei;P40 ;gris plata;256GB;12mp;6.0;media plus;71716.51
+130;Samsung;Galaxy S21;gris plata;256GB;20mp;6.1;alta plus;1230865.25
+131;Huawei;P40 ;gris plomo;256GB;24mp;8.3;alta plus;1833388.74
+132;iPhone;12;negro;512GB;12mp;4.6;premium oro;694887.14
+133;Samsung;Galaxy S21;gris plomo;256GB;16mp;4.2;media plus;600464.39
+134;iPhone;12;negro;256GB;8mp;4.8;alta plus;727658.77
+135;Google;Pixel 5;rosa;64GB;16mp;4.9;premium plata;1716670.55
+136;Huawei;P40 ;rojo;512GB;12mp;8.4;alta plus;958855.78
+137;Samsung;Galaxy S21;rojo;256GB;16mp;7.7;alta;1194780.56
+138;Huawei;P40 ;blanco;128GB;24mp;9.0;alta;1191495.87
+139;iPhone;12;gris plata;512GB;16mp;8.2;premium plata;1309757.09
+140;Huawei;P40 ;azul;64GB;24mp;7.5;media plus;1892551.96
+141;iPhone;12;gris plomo;512GB;8mp;6.3;premium plata;1214494.37
+142;Samsung;Galaxy S21;rojo;256GB;20mp;6.4;alta;1139688.44
+143;iPhone;12;amarillo;128GB;16mp;8.6;media plus;113482.56
+144;Samsung;Galaxy S21;azul;512GB;12mp;9.2;premium plata;972895.49
+145;iPhone;12;negro;64GB;24mp;7.5;media;883636.11
+146;Samsung;Galaxy S21;gris plata;128GB;24mp;4.3;media plus;1429161.52
+147;OnePlus;9;amarillo;128GB;12mp;7.5;media;1568803.5
+148;Samsung;Galaxy S21;rosa;64GB;8mp;8.0;media;1481915.67
+149;OnePlus;9;amarillo;256GB;8mp;5.3;alta;1880243.87
+150;OnePlus;9;amarillo;64GB;12mp;9.6;alta plus;1338066.79
+151;Samsung;Galaxy S21;blanco;256GB;16mp;6.0;premium oro;879176.77
+152;Huawei;P40 ;rosa;512GB;8mp;6.2;premium plata;690109.54
+153;Samsung;Galaxy S21;rosa;256GB;16mp;8.7;premium plata;1416797.59
+154;OnePlus;9;rosa;64GB;8mp;5.9;alta plus;1616919.82
+155;Google;Pixel 5;amarillo;64GB;16mp;6.7;media plus;1862506.9
+156;Samsung;Galaxy S21;amarillo;128GB;8mp;8.7;media;522656.77
+157;OnePlus;9;rojo;512GB;8mp;4.7;media;1049687.96
+158;OnePlus;9;rojo;64GB;20mp;9.3;alta plus;161547.38
+159;Google;Pixel 5;amarillo;128GB;20mp;7.8;alta;838565.68
+160;Huawei;P40 ;azul;256GB;20mp;6.0;media plus;404727.8
+161;Huawei;P40 ;rojo;64GB;8mp;6.0;media;390615.95
+162;iPhone;12;gris plata;256GB;8mp;5.6;premium plata;542405.02
+163;Huawei;P40 ;rojo;256GB;20mp;8.5;premium plata;1192509.17
+164;Google;Pixel 5;rojo;64GB;12mp;8.6;premium plata;579878.88
+165;Google;Pixel 5;gris plomo;64GB;8mp;5.3;premium oro;1641564.28
+166;Huawei;P40 ;blanco;256GB;16mp;4.3;media plus;6726.25
+167;Huawei;P40 ;rojo;64GB;20mp;4.8;media;1613982.28
+168;Huawei;P40 ;azul;128GB;8mp;5.8;premium oro;788628.94
+169;Huawei;P40 ;gris plomo;256GB;12mp;6.4;premium oro;603370.58
+170;OnePlus;9;negro;256GB;12mp;6.9;media plus;192283.06
+171;Samsung;Galaxy S21;gris plata;256GB;24mp;9.3;alta;818671.21
+172;Samsung;Galaxy S21;gris plomo;64GB;24mp;7.0;alta;1513425.15
+173;Samsung;Galaxy S21;gris plomo;64GB;8mp;4.6;alta;613582.99
+174;iPhone;12;amarillo;512GB;12mp;8.9;premium oro;364312.58
+175;iPhone;12;blanco;256GB;20mp;8.8;alta plus;1639935.29
+176;Google;Pixel 5;azul;512GB;12mp;5.7;media;773303.84
+177;OnePlus;9;azul;128GB;24mp;9.6;alta plus;783844.68
+178;Huawei;P40 ;azul;128GB;8mp;5.0;premium plata;1202232.44
+179;Google;Pixel 5;gris plomo;128GB;12mp;8.6;premium oro;1741702.18
+180;Samsung;Galaxy S21;azul;256GB;8mp;6.3;alta plus;1973832.41
+181;iPhone;12;rosa;128GB;20mp;8.3;premium plata;215084.12
+182;Huawei;P40 ;azul;64GB;12mp;6.5;media plus;1906404.54
+183;iPhone;12;azul;512GB;16mp;8.7;alta plus;1828760.36
+184;OnePlus;9;gris plomo;256GB;12mp;4.2;premium plata;1226822.01
+185;Google;Pixel 5;gris plata;64GB;8mp;7.2;alta;1058166.71
+186;Samsung;Galaxy S21;azul;64GB;24mp;7.3;alta;1597879.57
+187;Samsung;Galaxy S21;amarillo;128GB;12mp;9.5;alta plus;607616.61
+188;Huawei;P40 ;gris plomo;64GB;16mp;6.8;premium oro;834985.97
+189;Huawei;P40 ;gris plata;256GB;16mp;6.8;media;1821987.68
+190;Huawei;P40 ;gris plomo;512GB;12mp;4.6;alta plus;571352.4
+191;Google;Pixel 5;gris plomo;128GB;8mp;9.6;media plus;1295825.15
+192;Google;Pixel 5;amarillo;128GB;12mp;8.5;alta plus;785179.52
+193;Huawei;P40 ;gris plata;128GB;24mp;9.0;alta plus;1594277.95
+194;Google;Pixel 5;gris plomo;512GB;16mp;8.9;media plus;1238258.58
+195;Huawei;P40 ;rosa;512GB;20mp;6.4;alta;821902.04
+196;OnePlus;9;rojo;256GB;12mp;8.8;premium oro;1622187.56
+197;OnePlus;9;blanco;128GB;24mp;5.2;media;1356422.68
+198;iPhone;12;rojo;64GB;24mp;7.8;media plus;621356.39
+199;Google;Pixel 5;negro;64GB;8mp;5.0;alta;1039935.64
+200;Huawei;P40 ;azul;512GB;8mp;6.6;media;476781.36
+201;Google;Pixel 5;azul;64GB;24mp;5.6;alta plus;1070280.29
+202;OnePlus;9;gris plata;256GB;12mp;4.5;premium plata;274612.98
+203;Google;Pixel 5;azul;256GB;12mp;9.9;alta plus;345233.9
+204;OnePlus;9;gris plata;256GB;24mp;8.2;premium oro;370852.58
+205;Huawei;P40 ;negro;256GB;12mp;4.3;alta;1328603.01
+206;iPhone;12;gris plata;64GB;16mp;4.6;alta;680848.02
+207;Samsung;Galaxy S21;rosa;64GB;20mp;4.5;media;660652.86
+208;Google;Pixel 5;rojo;256GB;16mp;7.3;media;519637.68
+209;Google;Pixel 5;rojo;64GB;8mp;8.2;premium plata;818210.49
+210;Google;Pixel 5;negro;256GB;12mp;8.7;premium oro;413708.97
+211;OnePlus;9;rojo;128GB;8mp;5.0;alta;870238.57
+212;Samsung;Galaxy S21;gris plomo;256GB;20mp;6.0;media plus;606053.62
+213;Google;Pixel 5;blanco;128GB;16mp;6.3;media;1622457.34
+214;Samsung;Galaxy S21;blanco;256GB;8mp;5.5;media plus;695316.7
+215;OnePlus;9;gris plomo;256GB;16mp;4.3;media;1967238.02
+216;Google;Pixel 5;amarillo;128GB;24mp;5.7;premium oro;1661418.75
+217;OnePlus;9;blanco;512GB;8mp;4.8;premium oro;282017.36
+218;Google;Pixel 5;azul;256GB;8mp;6.8;premium oro;485834.65
+219;OnePlus;9;amarillo;64GB;12mp;4.2;media;1442391.91
+220;iPhone;12;rojo;256GB;8mp;4.6;media plus;985871.35
+221;OnePlus;9;negro;256GB;12mp;4.8;alta plus;767206.69
+222;Samsung;Galaxy S21;azul;64GB;16mp;6.9;alta;1624875.63
+223;Google;Pixel 5;rosa;128GB;24mp;6.1;premium plata;659892.52
+224;Samsung;Galaxy S21;azul;512GB;24mp;4.7;media plus;864044.22
+225;iPhone;12;negro;256GB;24mp;8.5;alta;933686.37
+226;Google;Pixel 5;amarillo;256GB;12mp;8.3;alta;1193168.65
+227;Google;Pixel 5;azul;128GB;12mp;7.5;alta plus;376866.51
+228;OnePlus;9;rosa;256GB;12mp;4.0;premium oro;1141219.8
+229;OnePlus;9;negro;256GB;16mp;5.6;alta plus;1032091.28
+230;Samsung;Galaxy S21;amarillo;128GB;12mp;7.4;premium oro;875589.77
+231;Samsung;Galaxy S21;amarillo;256GB;8mp;8.2;media plus;669638.19
+232;Google;Pixel 5;gris plata;128GB;8mp;9.7;media plus;716143.06
+233;Google;Pixel 5;rojo;256GB;24mp;4.5;premium oro;737582.91
+234;Huawei;P40 ;azul;512GB;16mp;6.8;media;1704861.68
+235;OnePlus;9;rosa;128GB;20mp;8.8;alta;1799341.07
+236;Samsung;Galaxy S21;gris plata;512GB;24mp;5.5;alta plus;1619321.61
+237;iPhone;12;blanco;512GB;12mp;5.8;alta;542084.95
+238;Samsung;Galaxy S21;gris plata;512GB;8mp;8.7;premium plata;185324.58
+239;Google;Pixel 5;gris plata;512GB;16mp;8.0;alta plus;353891.04
+240;Samsung;Galaxy S21;rojo;64GB;8mp;7.5;media plus;185599.4
+241;Huawei;P40 ;blanco;512GB;24mp;6.6;premium plata;973459.38
+242;Samsung;Galaxy S21;azul;128GB;8mp;5.6;premium plata;1951278.63
+243;Huawei;P40 ;rosa;256GB;8mp;4.2;premium plata;1049321.81
+244;OnePlus;9;negro;128GB;12mp;5.4;alta plus;933738.05
+245;iPhone;12;gris plata;512GB;20mp;6.3;premium plata;846086.25
+246;Google;Pixel 5;rojo;256GB;24mp;8.4;media plus;1900199.73
+247;iPhone;12;rosa;64GB;24mp;8.8;alta;460640.61
+248;Huawei;P40 ;azul;128GB;20mp;7.4;media plus;555075.83
+249;iPhone;12;gris plomo;64GB;12mp;4.9;media;830333.7
+250;OnePlus;9;rosa;128GB;8mp;9.6;media;1436781.95
+251;OnePlus;9;gris plata;128GB;24mp;8.4;premium plata;491488.09
+252;Huawei;P40 ;blanco;128GB;24mp;9.5;media;1891834.0
+253;OnePlus;9;gris plomo;128GB;8mp;7.0;media plus;1875019.65
+254;Huawei;P40 ;gris plata;256GB;16mp;6.7;alta;953317.75
+255;Huawei;P40 ;blanco;128GB;20mp;5.2;media plus;322745.91
+256;Google;Pixel 5;azul;512GB;24mp;7.6;media;321646.23
+257;Huawei;P40 ;rosa;256GB;16mp;5.8;premium oro;141371.34
+258;iPhone;12;gris plomo;512GB;8mp;9.7;alta;1798026.34
+259;iPhone;12;amarillo;64GB;20mp;5.2;premium plata;1300571.34
+260;iPhone;12;rosa;64GB;20mp;5.4;premium oro;549601.2
+261;Google;Pixel 5;rojo;128GB;16mp;8.4;alta;246615.77
+262;Samsung;Galaxy S21;blanco;256GB;16mp;7.1;media;866385.86
+263;Samsung;Galaxy S21;azul;512GB;24mp;4.5;media;363889.21
+264;Google;Pixel 5;negro;512GB;20mp;7.1;premium plata;1340387.08
+265;Samsung;Galaxy S21;amarillo;64GB;8mp;4.7;premium oro;1914704.29
+266;Samsung;Galaxy S21;negro;128GB;20mp;9.8;alta plus;144027.28
+267;OnePlus;9;negro;128GB;12mp;7.2;media;969257.17
+268;OnePlus;9;rojo;128GB;20mp;8.4;alta;265234.69
+269;Samsung;Galaxy S21;rosa;256GB;16mp;6.6;premium oro;1296797.21
+270;Google;Pixel 5;amarillo;128GB;12mp;4.5;alta plus;213489.34
+271;Samsung;Galaxy S21;gris plata;128GB;16mp;6.4;media plus;319012.28
+272;OnePlus;9;rojo;128GB;8mp;8.9;media plus;1398211.04
+273;Huawei;P40 ;rojo;512GB;12mp;5.3;media plus;285359.46
+274;OnePlus;9;rojo;256GB;20mp;9.9;alta plus;259982.17
+275;Samsung;Galaxy S21;gris plomo;64GB;20mp;5.8;media;1114952.56
+276;OnePlus;9;rojo;512GB;12mp;9.2;premium plata;424363.93
+277;Samsung;Galaxy S21;negro;128GB;20mp;7.1;premium oro;415345.61
+278;iPhone;12;amarillo;256GB;12mp;5.9;premium oro;461604.96
+279;iPhone;12;negro;128GB;24mp;4.3;media plus;936338.44
+280;Huawei;P40 ;rosa;512GB;12mp;9.6;premium oro;899471.39
+281;Samsung;Galaxy S21;rojo;64GB;8mp;7.8;alta plus;894127.33
+282;OnePlus;9;amarillo;128GB;8mp;6.8;media;230466.99
+283;OnePlus;9;azul;128GB;8mp;4.8;premium oro;515873.97
+284;Google;Pixel 5;gris plata;64GB;8mp;7.2;media;614845.66
+285;OnePlus;9;gris plomo;64GB;24mp;8.1;premium oro;951725.92
+286;OnePlus;9;negro;256GB;24mp;6.4;alta;523347.97
+287;Google;Pixel 5;blanco;512GB;12mp;4.0;media;843839.14
+288;Google;Pixel 5;rojo;256GB;24mp;9.5;premium plata;1086476.59
+289;iPhone;12;gris plata;64GB;12mp;5.0;media;1798974.15
+290;iPhone;12;negro;512GB;20mp;8.7;media;354927.22
+291;iPhone;12;gris plata;256GB;16mp;8.1;alta plus;504942.16
+292;iPhone;12;blanco;256GB;8mp;7.7;alta plus;1661550.89
+293;Samsung;Galaxy S21;blanco;256GB;20mp;7.6;alta plus;1535382.81
+294;Google;Pixel 5;negro;64GB;8mp;6.7;alta;1152145.73
+295;Huawei;P40 ;blanco;512GB;16mp;5.3;media plus;1691670.0
+296;Google;Pixel 5;gris plomo;128GB;24mp;7.0;premium oro;1634149.3
+297;OnePlus;9;blanco;64GB;24mp;4.0;alta;1646754.54
+298;OnePlus;9;azul;128GB;20mp;4.4;media;628695.25
+299;Huawei;P40 ;azul;128GB;12mp;7.9;alta;1552435.48
+300;Huawei;P40 ;gris plomo;512GB;12mp;6.4;media plus;1074628.96
+301;iPhone;12;gris plata;256GB;16mp;4.3;alta;133390.79
+302;OnePlus;9;amarillo;128GB;20mp;4.7;media;892068.3
+303;iPhone;12;amarillo;64GB;24mp;8.8;media;1613631.66
+304;Google;Pixel 5;gris plata;128GB;12mp;4.6;alta plus;113715.07
+305;Google;Pixel 5;rojo;256GB;20mp;9.6;alta plus;1947172.58
+306;Google;Pixel 5;blanco;256GB;24mp;7.6;premium oro;257302.32
+307;Samsung;Galaxy S21;blanco;128GB;12mp;8.8;media;1731092.23
+308;Samsung;Galaxy S21;negro;64GB;24mp;9.2;premium plata;336950.32
+309;iPhone;12;blanco;512GB;20mp;7.2;alta plus;152770.48
+310;iPhone;12;negro;64GB;24mp;5.1;alta;1367182.95
+311;Samsung;Galaxy S21;negro;256GB;20mp;8.3;media;1097600.8
+312;iPhone;12;azul;128GB;16mp;4.4;alta;577686.61
+313;OnePlus;9;gris plata;128GB;24mp;9.4;media;2181.54
+314;iPhone;12;rojo;128GB;12mp;7.6;premium plata;1793394.97
+315;iPhone;12;amarillo;128GB;16mp;6.6;alta;1229948.21
+316;Samsung;Galaxy S21;gris plomo;64GB;24mp;8.2;alta;980192.57
+317;Samsung;Galaxy S21;rosa;256GB;24mp;5.3;media plus;1080466.45
+318;iPhone;12;gris plata;128GB;20mp;7.9;alta;1265415.22
+319;iPhone;12;amarillo;64GB;24mp;7.8;premium oro;1742017.23
+320;Google;Pixel 5;gris plata;64GB;24mp;9.8;media plus;1571042.3
+321;OnePlus;9;rosa;64GB;20mp;7.9;premium plata;159149.4
+322;Samsung;Galaxy S21;blanco;64GB;12mp;9.0;premium plata;1731596.47
+323;iPhone;12;amarillo;128GB;8mp;8.2;premium oro;14872.78
+324;OnePlus;9;gris plata;256GB;24mp;6.0;media plus;328785.92
+325;Samsung;Galaxy S21;azul;128GB;8mp;9.8;premium oro;840632.22
+326;Google;Pixel 5;gris plata;256GB;24mp;9.6;premium oro;1116844.61
+327;iPhone;12;rojo;128GB;20mp;4.7;premium plata;1118823.66
+328;OnePlus;9;rojo;64GB;20mp;7.1;alta plus;1910246.8
+329;OnePlus;9;gris plata;64GB;12mp;8.3;alta;1792885.86
+330;OnePlus;9;rosa;128GB;8mp;8.1;alta plus;1088033.03
+331;Google;Pixel 5;azul;512GB;24mp;10.0;premium oro;710949.38
+332;iPhone;12;rosa;128GB;24mp;9.4;premium plata;1743777.24
+333;Google;Pixel 5;azul;128GB;20mp;8.7;premium plata;1360771.36
+334;Google;Pixel 5;negro;128GB;20mp;4.9;media plus;648997.47
+335;Google;Pixel 5;blanco;128GB;8mp;5.4;premium oro;1031831.44
+336;iPhone;12;rojo;512GB;24mp;6.7;alta plus;1418945.72
+337;Google;Pixel 5;rosa;64GB;20mp;9.1;alta;692965.35
+338;Huawei;P40 ;negro;64GB;12mp;8.3;alta;433993.48
+339;Google;Pixel 5;blanco;64GB;20mp;8.5;media plus;318640.31
+340;Google;Pixel 5;blanco;256GB;20mp;6.8;alta plus;618963.28
+341;Google;Pixel 5;gris plomo;256GB;8mp;6.7;alta plus;812442.98
+342;Huawei;P40 ;gris plata;64GB;24mp;4.3;alta;1248085.69
+343;Google;Pixel 5;negro;256GB;24mp;7.1;media;568609.87
+344;iPhone;12;rojo;256GB;8mp;6.5;alta;358574.67
+345;iPhone;12;rosa;512GB;12mp;9.4;media;165521.95
+346;Samsung;Galaxy S21;rojo;64GB;24mp;7.0;alta plus;1205641.02
+347;iPhone;12;rosa;64GB;8mp;8.3;premium oro;475953.75
+348;Google;Pixel 5;gris plata;64GB;12mp;8.9;media plus;469073.62
+349;Huawei;P40 ;azul;256GB;20mp;9.1;media plus;202701.78
+350;Samsung;Galaxy S21;gris plata;128GB;12mp;6.1;alta plus;347183.0
+351;Google;Pixel 5;rojo;64GB;12mp;6.9;media;1458989.69
+352;Google;Pixel 5;blanco;512GB;16mp;9.3;premium plata;1183965.9
+353;Samsung;Galaxy S21;rojo;64GB;20mp;4.1;alta plus;1965672.88
+354;iPhone;12;rojo;256GB;20mp;4.4;alta plus;1209926.64
+355;iPhone;12;azul;128GB;24mp;9.2;media;491610.93
+356;Google;Pixel 5;rojo;128GB;20mp;9.1;media plus;1398973.67
+357;Google;Pixel 5;rosa;256GB;12mp;8.8;alta plus;732615.57
+358;iPhone;12;blanco;64GB;16mp;6.0;premium oro;1892078.15
+359;Samsung;Galaxy S21;azul;256GB;20mp;6.0;alta plus;1931540.66
+360;Huawei;P40 ;rosa;256GB;24mp;4.1;premium plata;1245201.36
+361;Huawei;P40 ;gris plata;64GB;8mp;9.3;media;946671.37
+362;OnePlus;9;gris plata;64GB;24mp;9.1;alta;350320.85
+363;OnePlus;9;rojo;128GB;16mp;9.1;alta;1371496.17
+364;OnePlus;9;gris plata;128GB;12mp;5.5;alta;957130.2
+365;iPhone;12;rosa;512GB;12mp;7.8;premium plata;514445.54
+366;OnePlus;9;rojo;64GB;8mp;6.7;alta;415454.68
+367;OnePlus;9;gris plomo;256GB;16mp;4.9;alta;1039860.0
+368;Huawei;P40 ;gris plomo;128GB;20mp;4.3;premium plata;1193894.49
+369;Huawei;P40 ;rosa;128GB;12mp;6.6;premium oro;1395931.23
+370;OnePlus;9;rojo;512GB;16mp;5.7;alta;1190695.12
+371;OnePlus;9;gris plomo;256GB;20mp;8.6;alta;1369190.9
+372;Huawei;P40 ;amarillo;512GB;24mp;7.9;alta plus;1257287.27
+373;OnePlus;9;gris plomo;128GB;24mp;7.0;media plus;1133569.33
+374;Samsung;Galaxy S21;gris plomo;64GB;20mp;5.0;media plus;1705862.33
+375;Samsung;Galaxy S21;blanco;64GB;12mp;8.6;media;882059.25
+376;Huawei;P40 ;amarillo;128GB;24mp;9.7;media;1092880.39
+377;OnePlus;9;gris plata;512GB;12mp;5.2;alta;1409186.23
+378;OnePlus;9;rojo;512GB;24mp;6.8;media plus;996879.35
+379;Google;Pixel 5;rosa;512GB;16mp;7.7;media;704768.57
+380;Huawei;P40 ;amarillo;256GB;8mp;8.2;premium oro;313838.67
+381;Google;Pixel 5;gris plata;64GB;20mp;9.6;premium oro;866579.84
+382;Samsung;Galaxy S21;amarillo;128GB;16mp;5.7;alta plus;34819.76
+383;Google;Pixel 5;rojo;64GB;12mp;6.9;alta plus;615823.06
+384;iPhone;12;gris plata;512GB;24mp;5.7;premium oro;535898.4
+385;OnePlus;9;azul;512GB;20mp;6.9;media plus;34337.0
+386;Huawei;P40 ;rosa;128GB;12mp;6.3;premium plata;1417462.45
+387;OnePlus;9;amarillo;128GB;12mp;7.8;media plus;65403.3
+388;Huawei;P40 ;rojo;64GB;16mp;5.6;alta;188045.37
+389;iPhone;12;azul;64GB;16mp;9.9;alta;1595082.54
+390;Google;Pixel 5;gris plomo;128GB;16mp;8.2;premium plata;1164397.52
+391;Huawei;P40 ;blanco;128GB;12mp;4.9;alta;1903742.84
+392;Samsung;Galaxy S21;gris plomo;512GB;20mp;8.3;media;1935799.48
+393;iPhone;12;amarillo;512GB;20mp;8.2;alta;776151.75
+394;OnePlus;9;negro;64GB;12mp;9.7;alta;560598.37
+395;Samsung;Galaxy S21;rojo;128GB;24mp;9.1;media;1710047.96
+396;Huawei;P40 ;rojo;256GB;24mp;7.6;alta;170939.09
+397;iPhone;12;rojo;256GB;8mp;7.0;premium plata;155416.87
+398;Huawei;P40 ;azul;256GB;8mp;7.0;media plus;109498.78
+399;Google;Pixel 5;gris plata;512GB;24mp;9.1;premium oro;1666881.0
+400;OnePlus;9;gris plata;128GB;16mp;9.3;media;1699281.62
+401;Samsung;Galaxy S21;blanco;128GB;16mp;9.2;media plus;197371.39
+402;Huawei;P40 ;amarillo;256GB;24mp;9.4;media plus;1106017.84
+403;iPhone;12;rosa;256GB;12mp;9.3;media;971061.2
+404;Huawei;P40 ;blanco;256GB;12mp;6.6;premium plata;547733.3
+405;iPhone;12;gris plata;512GB;16mp;5.7;alta plus;859599.35
+406;Google;Pixel 5;amarillo;256GB;16mp;6.1;alta;329490.03
+407;iPhone;12;amarillo;64GB;8mp;4.2;premium plata;1018009.19
+408;OnePlus;9;rosa;512GB;16mp;4.7;alta;1886633.83
+409;Samsung;Galaxy S21;azul;64GB;16mp;4.4;media plus;822195.82
+410;iPhone;12;gris plata;64GB;12mp;9.5;alta;1087923.46
+411;Samsung;Galaxy S21;amarillo;64GB;24mp;7.2;premium oro;1136248.64
+412;iPhone;12;rojo;128GB;12mp;7.6;premium plata;1075817.68
+413;Huawei;P40 ;negro;64GB;8mp;9.2;premium plata;1384951.38
+414;iPhone;12;amarillo;256GB;8mp;7.5;media;356350.71
+415;iPhone;12;rosa;256GB;16mp;8.3;alta;1881253.95
+416;Samsung;Galaxy S21;amarillo;128GB;8mp;9.8;alta;1115033.94
+417;Google;Pixel 5;blanco;128GB;16mp;5.1;premium plata;589817.88
+418;Samsung;Galaxy S21;gris plomo;64GB;12mp;5.4;premium plata;1162445.13
+419;Huawei;P40 ;azul;256GB;24mp;4.5;media plus;1926948.74
+420;OnePlus;9;gris plomo;128GB;8mp;6.4;media plus;708870.97
+421;Samsung;Galaxy S21;rosa;64GB;8mp;7.8;media plus;237973.05
+422;iPhone;12;negro;128GB;24mp;4.5;premium plata;960092.59
+423;iPhone;12;gris plomo;512GB;24mp;8.1;premium plata;1168292.14
+424;Google;Pixel 5;azul;512GB;8mp;5.6;media;1012657.3
+425;iPhone;12;rojo;256GB;12mp;8.9;media;341416.34
+426;iPhone;12;blanco;512GB;24mp;5.3;alta plus;1536820.04
+427;Samsung;Galaxy S21;gris plomo;512GB;20mp;8.7;media plus;1539032.11
+428;OnePlus;9;amarillo;128GB;24mp;4.4;alta plus;556062.37
+429;Huawei;P40 ;rosa;256GB;12mp;5.5;alta;398238.26
+430;iPhone;12;rosa;256GB;12mp;4.7;media plus;1497718.77
+431;iPhone;12;amarillo;512GB;16mp;6.0;premium plata;1307230.94
+432;Samsung;Galaxy S21;gris plomo;256GB;16mp;7.4;media plus;1881644.09
+433;Samsung;Galaxy S21;gris plata;256GB;24mp;9.6;media plus;1468406.7
+434;Google;Pixel 5;rosa;512GB;20mp;4.7;premium oro;1840454.59
+435;Google;Pixel 5;gris plomo;128GB;20mp;5.9;media;1965481.89
+436;Huawei;P40 ;rosa;256GB;8mp;6.5;alta;584771.47
+437;Google;Pixel 5;azul;512GB;8mp;6.6;media;1968446.63
+438;Huawei;P40 ;gris plomo;128GB;12mp;5.4;alta;1663707.68
+439;OnePlus;9;rosa;128GB;16mp;4.8;alta;860652.93
+440;Google;Pixel 5;negro;512GB;24mp;8.8;premium plata;567761.97
+441;Huawei;P40 ;blanco;512GB;20mp;9.2;alta;909530.28
+442;Samsung;Galaxy S21;azul;64GB;16mp;4.8;media plus;1120215.75
+443;Google;Pixel 5;gris plata;128GB;16mp;8.1;premium oro;814399.47
+444;Samsung;Galaxy S21;azul;128GB;20mp;4.1;premium plata;678026.11
+445;iPhone;12;gris plata;64GB;8mp;7.9;premium oro;313843.21
+446;OnePlus;9;gris plata;256GB;8mp;5.6;premium oro;1354737.75
+447;Huawei;P40 ;blanco;128GB;8mp;9.1;premium plata;1995022.67
+448;Huawei;P40 ;amarillo;64GB;20mp;5.8;premium oro;1293509.8
+449;Google;Pixel 5;negro;512GB;12mp;8.2;alta plus;1072730.83
+450;Samsung;Galaxy S21;blanco;512GB;24mp;6.7;alta;1275736.13
+451;Samsung;Galaxy S21;gris plomo;256GB;8mp;9.0;media plus;510661.29
+452;Samsung;Galaxy S21;amarillo;256GB;12mp;7.3;alta;1775041.85
+453;Google;Pixel 5;gris plata;256GB;20mp;4.8;premium oro;254913.13
+454;Samsung;Galaxy S21;rosa;64GB;12mp;5.9;premium oro;1314697.1
+455;Samsung;Galaxy S21;azul;256GB;20mp;7.5;premium oro;1916800.8
+456;Huawei;P40 ;negro;64GB;24mp;5.9;media;704415.96
+457;Google;Pixel 5;gris plomo;512GB;16mp;7.4;premium oro;1163595.53
+458;Google;Pixel 5;gris plomo;64GB;16mp;7.2;media;871092.24
+459;Samsung;Galaxy S21;amarillo;512GB;8mp;8.7;premium oro;221379.41
+460;Google;Pixel 5;gris plomo;256GB;16mp;8.1;alta plus;1165418.21
+461;Huawei;P40 ;gris plata;64GB;24mp;6.0;premium plata;407136.42
+462;OnePlus;9;gris plata;512GB;24mp;4.6;alta;2205.46
+463;Google;Pixel 5;blanco;512GB;8mp;5.4;media plus;193240.46
+464;iPhone;12;negro;64GB;8mp;6.3;alta;982100.8
+465;Google;Pixel 5;gris plomo;512GB;16mp;7.9;premium plata;992189.63
+466;OnePlus;9;gris plomo;512GB;16mp;7.6;premium plata;1457684.57
+467;iPhone;12;rosa;256GB;24mp;7.9;premium oro;1008835.22
+468;iPhone;12;azul;512GB;8mp;8.5;media plus;968006.38
+469;iPhone;12;gris plata;256GB;12mp;9.6;alta plus;1850320.1
+470;Huawei;P40 ;azul;64GB;24mp;8.3;media;243408.14
+471;Samsung;Galaxy S21;amarillo;64GB;20mp;9.2;alta plus;735312.51
+472;iPhone;12;rojo;64GB;8mp;9.5;media;1779379.47
+473;OnePlus;9;blanco;128GB;24mp;9.4;premium plata;1895840.14
+474;Huawei;P40 ;blanco;256GB;12mp;6.1;alta plus;1709726.24
+475;OnePlus;9;gris plomo;512GB;24mp;7.8;alta plus;1577833.9
+476;OnePlus;9;gris plata;512GB;16mp;4.3;media plus;1075862.04
+477;iPhone;12;gris plata;512GB;20mp;4.3;media plus;582576.5
+478;Samsung;Galaxy S21;rosa;256GB;12mp;7.6;alta plus;938820.49
+479;iPhone;12;azul;256GB;8mp;8.5;media plus;1637773.49
+480;OnePlus;9;rojo;64GB;24mp;7.6;media plus;1813259.85
+481;Google;Pixel 5;azul;128GB;24mp;8.9;alta plus;1957751.5
+482;Google;Pixel 5;gris plata;128GB;12mp;5.8;alta plus;45100.82
+483;iPhone;12;rosa;64GB;16mp;7.2;alta plus;936811.69
+484;OnePlus;9;gris plomo;512GB;8mp;9.3;media plus;1035374.27
+485;Samsung;Galaxy S21;rojo;128GB;12mp;8.1;alta plus;1426646.12
+486;Samsung;Galaxy S21;gris plata;64GB;24mp;9.5;media;1416446.08
+487;iPhone;12;azul;128GB;12mp;9.4;alta;1602396.72
+488;Google;Pixel 5;azul;64GB;20mp;4.1;premium plata;336734.44
+489;OnePlus;9;blanco;64GB;16mp;7.8;premium plata;1555150.46
+490;Samsung;Galaxy S21;gris plomo;512GB;16mp;7.7;alta;472421.88
+491;Samsung;Galaxy S21;gris plomo;256GB;8mp;7.6;alta;77835.39
+492;iPhone;12;gris plomo;512GB;12mp;6.3;media;41607.3
+493;Samsung;Galaxy S21;gris plata;256GB;20mp;6.1;alta;433626.44
+494;Samsung;Galaxy S21;azul;256GB;16mp;7.3;alta plus;365944.05
+495;Google;Pixel 5;negro;128GB;16mp;5.5;premium oro;1850704.96
+496;iPhone;12;gris plata;256GB;8mp;8.3;premium oro;785115.67
+497;iPhone;12;rojo;256GB;20mp;9.8;premium plata;680209.0
+498;OnePlus;9;gris plata;512GB;24mp;5.4;media plus;406955.93
+499;Google;Pixel 5;blanco;256GB;20mp;8.5;alta plus;849083.13
+500;Google;Pixel 5;gris plata;256GB;8mp;8.1;media plus;125441.97
+501;Huawei;P40 ;rosa;256GB;8mp;9.9;alta plus;712816.9
+502;OnePlus;9;rosa;256GB;12mp;4.8;premium oro;53889.85
+503;OnePlus;9;negro;64GB;12mp;4.4;premium plata;674824.34
+504;Huawei;P40 ;gris plomo;256GB;16mp;8.6;media plus;1804177.89
+505;Google;Pixel 5;rojo;128GB;24mp;4.0;media;1902760.63
+506;Samsung;Galaxy S21;amarillo;128GB;8mp;7.9;media;1773798.91
+507;iPhone;12;rosa;512GB;24mp;7.6;premium oro;218726.04
+508;Google;Pixel 5;amarillo;256GB;16mp;5.5;alta plus;359090.67
+509;iPhone;12;rosa;64GB;24mp;8.9;alta;502490.02
+510;Samsung;Galaxy S21;rosa;512GB;20mp;7.9;alta;1383228.71
+511;Huawei;P40 ;amarillo;256GB;8mp;6.6;alta;1192378.84
+512;Samsung;Galaxy S21;azul;64GB;12mp;9.5;alta;1398941.65
+513;iPhone;12;gris plata;512GB;24mp;7.7;media plus;1159951.76
+514;Google;Pixel 5;gris plomo;256GB;24mp;7.7;premium oro;393951.55
+515;iPhone;12;rosa;64GB;8mp;5.6;alta plus;443047.98
+516;Google;Pixel 5;negro;128GB;20mp;4.6;alta plus;1029326.73
+517;iPhone;12;azul;64GB;8mp;5.9;alta plus;217227.95
+518;OnePlus;9;gris plomo;64GB;16mp;4.0;alta;525622.78
+519;iPhone;12;negro;512GB;12mp;8.8;alta plus;81601.17
+520;Samsung;Galaxy S21;gris plata;64GB;8mp;5.6;alta plus;838756.97
+521;OnePlus;9;gris plomo;512GB;24mp;8.3;alta plus;1272021.61
+522;Google;Pixel 5;gris plata;512GB;12mp;5.2;media plus;1707530.58
+523;iPhone;12;rojo;512GB;24mp;4.7;media plus;260231.54
+524;Huawei;P40 ;gris plomo;64GB;24mp;6.2;premium plata;998741.19
+525;Huawei;P40 ;rojo;128GB;12mp;7.5;premium oro;1756472.32
+526;Samsung;Galaxy S21;blanco;64GB;16mp;9.9;premium oro;1093820.33
+527;Huawei;P40 ;gris plata;128GB;24mp;4.4;alta;328695.93
+528;Huawei;P40 ;gris plomo;256GB;20mp;8.1;alta plus;496580.68
+529;Samsung;Galaxy S21;gris plata;128GB;12mp;6.1;premium plata;221632.11
+530;iPhone;12;amarillo;128GB;16mp;9.8;alta;1109522.64
+531;Samsung;Galaxy S21;amarillo;64GB;20mp;9.3;premium plata;384440.66
+532;Google;Pixel 5;azul;128GB;20mp;9.4;alta plus;1227522.7
+533;OnePlus;9;negro;128GB;24mp;7.5;premium plata;403095.73
+534;Samsung;Galaxy S21;blanco;64GB;24mp;4.9;alta plus;1489574.15
+535;Huawei;P40 ;negro;64GB;20mp;6.5;premium oro;1065458.43
+536;Google;Pixel 5;amarillo;128GB;8mp;8.6;premium plata;1759043.06
+537;OnePlus;9;gris plomo;512GB;24mp;6.6;alta;11920.69
+538;Google;Pixel 5;amarillo;64GB;24mp;6.1;media;1541395.57
+539;OnePlus;9;gris plomo;128GB;24mp;8.7;premium plata;1742905.37
+540;iPhone;12;blanco;256GB;8mp;8.2;alta plus;285429.63
+541;iPhone;12;negro;512GB;16mp;4.2;media plus;366109.62
+542;OnePlus;9;amarillo;128GB;8mp;7.2;media plus;1328443.38
+543;Google;Pixel 5;amarillo;64GB;16mp;7.0;alta plus;1608103.1
+544;Samsung;Galaxy S21;rojo;128GB;16mp;5.0;premium plata;1288103.99
+545;Google;Pixel 5;azul;512GB;20mp;6.4;alta;885717.86
+546;Google;Pixel 5;amarillo;128GB;8mp;8.8;alta;1582560.26
+547;Huawei;P40 ;blanco;128GB;20mp;9.1;premium plata;1850692.32
+548;Huawei;P40 ;gris plomo;128GB;8mp;6.7;alta plus;328721.0
+549;OnePlus;9;rosa;512GB;24mp;5.5;media plus;1153775.98
+550;Google;Pixel 5;rosa;128GB;12mp;6.9;premium plata;205017.64
+551;Samsung;Galaxy S21;rojo;128GB;24mp;9.2;media plus;241768.34
+552;Samsung;Galaxy S21;rojo;128GB;16mp;5.1;premium plata;70482.26
+553;Huawei;P40 ;rosa;256GB;12mp;7.1;alta;914280.8
+554;Samsung;Galaxy S21;rojo;128GB;12mp;4.8;premium plata;1123845.64
+555;Google;Pixel 5;rosa;256GB;12mp;6.3;premium oro;1168744.51
+556;Samsung;Galaxy S21;azul;128GB;20mp;6.1;premium plata;1071758.53
+557;Huawei;P40 ;gris plata;256GB;12mp;5.7;alta;125047.03
+558;Google;Pixel 5;rosa;512GB;16mp;8.8;premium oro;1440276.16
+559;OnePlus;9;azul;128GB;16mp;6.7;premium plata;685074.77
+560;OnePlus;9;azul;64GB;12mp;7.1;media;1601261.6
+561;iPhone;12;negro;512GB;16mp;9.4;alta plus;845531.91
+562;Google;Pixel 5;gris plata;128GB;16mp;9.4;alta;312965.57
+563;Huawei;P40 ;rosa;256GB;8mp;5.7;alta;1969418.84
+564;Huawei;P40 ;blanco;64GB;16mp;6.1;premium plata;293307.97
+565;Google;Pixel 5;azul;512GB;20mp;8.5;media plus;358199.84
+566;Samsung;Galaxy S21;amarillo;256GB;20mp;8.7;premium plata;495131.1
+567;iPhone;12;rojo;256GB;8mp;6.1;premium plata;860421.18
+568;iPhone;12;blanco;256GB;24mp;7.9;premium oro;733833.63
+569;OnePlus;9;blanco;512GB;8mp;5.0;alta;13949.79
+570;iPhone;12;gris plata;64GB;12mp;4.3;media plus;1772045.16
+571;Huawei;P40 ;negro;128GB;8mp;9.4;alta;607053.11
+572;Google;Pixel 5;blanco;512GB;12mp;4.7;media;515286.15
+573;Huawei;P40 ;blanco;128GB;12mp;9.0;alta;1963601.42
+574;Google;Pixel 5;rosa;256GB;8mp;4.4;alta plus;1978033.58
+575;Huawei;P40 ;blanco;128GB;24mp;5.7;premium plata;9398.98
+576;Huawei;P40 ;azul;128GB;12mp;6.8;media plus;1816382.17
+577;Samsung;Galaxy S21;amarillo;64GB;24mp;7.1;premium plata;612038.78
+578;Samsung;Galaxy S21;gris plomo;512GB;24mp;6.6;premium plata;22261.18
+579;Samsung;Galaxy S21;azul;256GB;8mp;6.8;alta plus;851711.15
+580;Google;Pixel 5;blanco;128GB;16mp;7.8;media;1067380.07
+581;Samsung;Galaxy S21;gris plomo;256GB;12mp;8.5;premium plata;656386.42
+582;iPhone;12;rojo;128GB;24mp;5.9;media plus;717622.09
+583;Samsung;Galaxy S21;blanco;64GB;16mp;6.8;alta;1949832.78
+584;Samsung;Galaxy S21;rosa;64GB;20mp;6.2;alta;688743.28
+585;Samsung;Galaxy S21;rojo;64GB;12mp;7.4;alta;1340654.11
+586;iPhone;12;gris plata;64GB;12mp;4.2;alta;567173.06
+587;Google;Pixel 5;gris plata;512GB;12mp;6.4;alta;869737.11
+588;Huawei;P40 ;rojo;64GB;8mp;5.1;media;846939.83
+589;OnePlus;9;rosa;256GB;20mp;7.0;alta plus;723668.54
+590;Google;Pixel 5;rosa;64GB;12mp;8.4;premium oro;1621176.39
+591;Samsung;Galaxy S21;rojo;512GB;24mp;6.0;premium plata;1399411.75
+592;Google;Pixel 5;negro;512GB;16mp;6.0;alta plus;1009885.03
+593;Google;Pixel 5;negro;64GB;8mp;5.0;premium plata;1758914.35
+594;Google;Pixel 5;negro;256GB;24mp;4.2;alta;1427125.36
+595;Google;Pixel 5;negro;64GB;20mp;8.9;premium oro;1814511.56
+596;Samsung;Galaxy S21;rosa;64GB;16mp;8.6;premium oro;734226.65
+597;Google;Pixel 5;gris plata;512GB;12mp;6.1;alta;229266.33
+598;OnePlus;9;blanco;256GB;12mp;9.2;alta plus;1818289.2
+599;Huawei;P40 ;negro;512GB;16mp;6.1;premium oro;1067246.63
+600;OnePlus;9;blanco;128GB;8mp;5.0;media plus;369793.55
+601;OnePlus;9;gris plata;64GB;16mp;9.2;alta plus;1122450.33
+602;Huawei;P40 ;azul;256GB;24mp;5.6;alta;1575958.17
+603;Samsung;Galaxy S21;amarillo;64GB;8mp;6.9;premium plata;808683.5
+604;OnePlus;9;blanco;256GB;12mp;5.8;alta plus;985510.24
+605;Huawei;P40 ;gris plata;256GB;12mp;6.9;media plus;1783587.33
+606;Samsung;Galaxy S21;blanco;64GB;24mp;5.9;premium plata;1712354.7
+607;iPhone;12;negro;256GB;12mp;9.1;premium plata;62712.0
+608;Huawei;P40 ;negro;128GB;24mp;7.7;alta plus;337051.29
+609;iPhone;12;amarillo;128GB;24mp;6.3;media;1780488.66
+610;OnePlus;9;amarillo;64GB;24mp;9.0;premium oro;1194225.11
+611;iPhone;12;blanco;128GB;16mp;9.0;alta;1390854.16
+612;iPhone;12;rosa;512GB;24mp;5.7;premium oro;467126.57
+613;Samsung;Galaxy S21;rosa;128GB;24mp;9.6;media plus;1126572.33
+614;OnePlus;9;rosa;256GB;8mp;7.9;media;568897.63
+615;OnePlus;9;amarillo;128GB;12mp;7.3;premium oro;1121612.97
+616;Huawei;P40 ;negro;128GB;24mp;9.2;media;1820387.28
+617;iPhone;12;rojo;256GB;24mp;7.4;premium plata;1714932.66
+618;iPhone;12;azul;64GB;16mp;7.7;alta plus;345647.99
+619;Samsung;Galaxy S21;amarillo;512GB;8mp;7.2;alta plus;112281.24
+620;Samsung;Galaxy S21;amarillo;256GB;12mp;5.6;alta plus;1055868.96
+621;Samsung;Galaxy S21;negro;64GB;20mp;5.1;alta;434907.97
+622;OnePlus;9;negro;512GB;8mp;4.9;premium plata;1016601.48
+623;Google;Pixel 5;amarillo;512GB;16mp;7.9;alta plus;416139.91
+624;Samsung;Galaxy S21;blanco;128GB;12mp;8.5;premium plata;598413.25
+625;Google;Pixel 5;gris plomo;512GB;24mp;7.8;premium oro;397360.67
+626;Google;Pixel 5;gris plata;512GB;20mp;8.3;media plus;1842411.93
+627;Huawei;P40 ;rosa;256GB;16mp;7.0;alta;1245282.67
+628;Samsung;Galaxy S21;gris plata;512GB;8mp;4.9;alta plus;759950.27
+629;Google;Pixel 5;gris plomo;128GB;24mp;8.8;premium oro;612599.79
+630;iPhone;12;gris plata;512GB;8mp;5.6;alta;861587.18
+631;OnePlus;9;gris plomo;128GB;24mp;8.1;premium oro;1213855.42
+632;Huawei;P40 ;gris plata;256GB;24mp;6.8;media;664431.71
+633;iPhone;12;rojo;64GB;24mp;7.6;media plus;1619641.98
+634;Google;Pixel 5;amarillo;64GB;12mp;7.4;premium oro;518908.99
+635;Samsung;Galaxy S21;gris plata;64GB;8mp;6.9;alta;458683.58
+636;Google;Pixel 5;rosa;128GB;12mp;4.0;premium plata;1640976.35
+637;Samsung;Galaxy S21;negro;128GB;12mp;9.2;premium plata;1031901.04
+638;OnePlus;9;gris plata;128GB;8mp;9.2;media plus;1384186.98
+639;Google;Pixel 5;gris plomo;64GB;20mp;9.5;premium oro;1157741.34
+640;Huawei;P40 ;blanco;512GB;16mp;7.8;media plus;419117.34
+641;Samsung;Galaxy S21;gris plata;512GB;8mp;9.6;premium oro;1275315.79
+642;iPhone;12;rojo;128GB;8mp;4.6;media plus;1945191.48
+643;iPhone;12;gris plomo;128GB;12mp;9.2;alta plus;1886115.67
+644;iPhone;12;rosa;256GB;24mp;6.7;premium oro;700803.45
+645;Samsung;Galaxy S21;azul;256GB;24mp;4.1;media;1168297.71
+646;OnePlus;9;blanco;128GB;8mp;7.6;media plus;1160500.96
+647;Google;Pixel 5;gris plata;512GB;12mp;6.8;media plus;1970864.31
+648;Huawei;P40 ;amarillo;512GB;8mp;8.3;premium oro;1400518.05
+649;Huawei;P40 ;negro;512GB;20mp;8.6;alta;818516.65
+650;Google;Pixel 5;gris plata;256GB;12mp;8.4;media plus;1345282.5
+651;OnePlus;9;gris plomo;128GB;24mp;9.1;premium plata;916341.37
+652;Samsung;Galaxy S21;blanco;512GB;24mp;7.0;media plus;23410.3
+653;iPhone;12;gris plata;64GB;8mp;5.1;media plus;849774.84
+654;iPhone;12;negro;512GB;20mp;5.8;media plus;393689.9
+655;Huawei;P40 ;gris plomo;512GB;8mp;7.4;premium plata;1649449.44
+656;iPhone;12;rosa;64GB;12mp;7.7;alta;1515047.4
+657;OnePlus;9;gris plata;256GB;24mp;8.9;premium plata;1301967.98
+658;Google;Pixel 5;blanco;256GB;8mp;5.9;media;173222.16
+659;Google;Pixel 5;amarillo;128GB;8mp;4.8;alta;1594832.22
+660;iPhone;12;blanco;128GB;12mp;8.5;alta;1630601.86
+661;Huawei;P40 ;rosa;128GB;20mp;5.0;alta plus;1435798.46
+662;iPhone;12;blanco;128GB;16mp;9.5;media plus;369443.77
+663;Samsung;Galaxy S21;gris plomo;256GB;20mp;8.8;premium plata;442702.18
+664;iPhone;12;rosa;256GB;16mp;4.3;alta plus;1212174.25
+665;Samsung;Galaxy S21;negro;64GB;8mp;9.9;media;966403.11
+666;iPhone;12;gris plata;512GB;20mp;4.2;premium plata;1918203.72
+667;Google;Pixel 5;amarillo;128GB;20mp;9.3;premium plata;519903.19
+668;Huawei;P40 ;blanco;128GB;20mp;6.9;media;871815.34
+669;Samsung;Galaxy S21;negro;512GB;24mp;9.6;premium plata;706096.41
+670;OnePlus;9;rojo;512GB;20mp;8.3;alta;1054647.11
+671;Huawei;P40 ;gris plomo;512GB;16mp;8.7;premium plata;40964.01
+672;Samsung;Galaxy S21;negro;128GB;20mp;8.6;media;1663860.72
+673;Google;Pixel 5;gris plomo;512GB;8mp;6.8;alta plus;531130.98
+674;Samsung;Galaxy S21;rosa;256GB;12mp;5.4;premium plata;258634.53
+675;Samsung;Galaxy S21;gris plomo;128GB;16mp;5.1;alta plus;1252961.37
+676;OnePlus;9;negro;128GB;20mp;5.8;alta plus;547927.72
+677;OnePlus;9;amarillo;64GB;8mp;7.4;alta;567445.95
+678;OnePlus;9;blanco;512GB;20mp;7.5;premium oro;1679250.35
+679;Google;Pixel 5;amarillo;64GB;8mp;6.7;alta;428041.35
+680;iPhone;12;negro;512GB;8mp;8.3;premium oro;131031.97
+681;Samsung;Galaxy S21;blanco;256GB;24mp;5.4;alta;1342768.77
+682;OnePlus;9;gris plomo;128GB;24mp;5.1;media;102841.47
+683;OnePlus;9;negro;64GB;24mp;6.9;media plus;891699.28
+684;OnePlus;9;gris plata;128GB;8mp;4.7;alta plus;212871.62
+685;iPhone;12;blanco;128GB;8mp;9.9;alta;418769.43
+686;Google;Pixel 5;negro;512GB;24mp;5.7;media plus;1515944.63
+687;OnePlus;9;gris plomo;64GB;24mp;7.8;alta;113166.73
+688;Huawei;P40 ;gris plomo;64GB;20mp;8.5;premium plata;1270195.3
+689;OnePlus;9;azul;512GB;20mp;4.6;media;1071280.46
+690;Google;Pixel 5;azul;128GB;16mp;7.8;premium plata;679602.25
+691;Samsung;Galaxy S21;azul;128GB;8mp;5.2;alta plus;545603.1
+692;Samsung;Galaxy S21;gris plomo;256GB;8mp;9.1;media plus;1191142.56
+693;iPhone;12;amarillo;512GB;24mp;5.8;premium oro;1181611.99
+694;OnePlus;9;azul;64GB;12mp;6.0;media plus;968000.4
+695;OnePlus;9;blanco;512GB;20mp;7.2;alta;1551591.52
+696;Samsung;Galaxy S21;amarillo;64GB;20mp;6.5;media plus;259376.82
+697;Google;Pixel 5;negro;256GB;16mp;4.9;alta plus;1635512.02
+698;Huawei;P40 ;gris plata;256GB;16mp;8.6;media plus;25661.6
+699;iPhone;12;gris plomo;64GB;24mp;5.8;premium plata;1235861.41
+700;Google;Pixel 5;azul;64GB;20mp;8.7;premium oro;185508.76
+701;iPhone;12;azul;512GB;16mp;5.3;premium oro;1018027.61
+702;OnePlus;9;gris plomo;64GB;12mp;7.2;alta plus;825190.09
+703;OnePlus;9;gris plomo;128GB;24mp;4.4;media plus;1363876.78
+704;OnePlus;9;rojo;512GB;16mp;8.5;premium plata;82313.38
+705;Huawei;P40 ;negro;512GB;12mp;8.4;alta plus;636388.29
+706;Huawei;P40 ;blanco;128GB;12mp;7.3;alta;848088.45
+707;OnePlus;9;rojo;512GB;12mp;6.2;premium oro;1684682.37
+708;Google;Pixel 5;rojo;512GB;8mp;7.3;media plus;1239442.54
+709;iPhone;12;rojo;512GB;24mp;6.8;alta;1418080.04
+710;Samsung;Galaxy S21;negro;512GB;16mp;5.5;premium oro;385429.26
+711;OnePlus;9;rosa;128GB;24mp;5.1;media;1383487.68
+712;iPhone;12;azul;128GB;16mp;6.1;alta;528921.88
+713;Samsung;Galaxy S21;amarillo;256GB;8mp;6.6;alta plus;1130613.03
+714;Huawei;P40 ;gris plata;256GB;16mp;9.8;media plus;468632.73
+715;OnePlus;9;rojo;256GB;12mp;4.0;media plus;1245787.18
+716;OnePlus;9;gris plata;128GB;20mp;8.4;media plus;117278.38
+717;Google;Pixel 5;gris plomo;256GB;24mp;6.9;media plus;1940261.8
+718;OnePlus;9;blanco;128GB;8mp;4.2;premium oro;1028711.28
+719;OnePlus;9;gris plomo;512GB;16mp;6.0;alta plus;249870.33
+720;OnePlus;9;negro;128GB;8mp;9.6;media plus;1137363.93
+721;Huawei;P40 ;gris plata;256GB;24mp;9.2;alta plus;805450.41
+722;Samsung;Galaxy S21;gris plomo;128GB;16mp;7.8;media plus;1954529.49
+723;OnePlus;9;blanco;128GB;12mp;6.1;premium oro;5766.4
+724;iPhone;12;gris plomo;128GB;16mp;4.7;premium plata;1266936.83
+725;iPhone;12;negro;512GB;12mp;8.7;media;1735439.59
+726;OnePlus;9;rosa;64GB;20mp;8.2;premium plata;817500.43
+727;OnePlus;9;blanco;256GB;16mp;6.2;premium oro;1873627.5
+728;Samsung;Galaxy S21;rosa;64GB;20mp;6.7;premium oro;489855.82
+729;Huawei;P40 ;blanco;64GB;20mp;4.5;premium plata;1247063.73
+730;OnePlus;9;gris plomo;256GB;12mp;4.6;media;1240277.36
+731;Google;Pixel 5;blanco;128GB;20mp;5.9;premium oro;368951.97
+732;Huawei;P40 ;rojo;512GB;8mp;5.2;premium oro;920909.16
+733;Samsung;Galaxy S21;gris plomo;128GB;20mp;5.6;alta plus;1475976.02
+734;Huawei;P40 ;gris plomo;128GB;8mp;7.9;media plus;702374.34
+735;OnePlus;9;blanco;256GB;24mp;8.2;media;1162037.92
+736;Samsung;Galaxy S21;blanco;512GB;20mp;9.8;media;1341724.17
+737;Huawei;P40 ;negro;256GB;8mp;8.7;media plus;1354618.47
+738;Google;Pixel 5;rosa;128GB;8mp;9.1;alta;1660616.65
+739;OnePlus;9;negro;256GB;20mp;5.8;media;231075.93
+740;Google;Pixel 5;rosa;128GB;8mp;7.8;media plus;700475.05
+741;iPhone;12;azul;512GB;8mp;9.8;premium plata;960258.42
+742;Samsung;Galaxy S21;gris plata;256GB;12mp;6.6;media;426351.2
+743;OnePlus;9;azul;128GB;8mp;8.7;media;1388042.71
+744;Google;Pixel 5;gris plomo;128GB;8mp;7.1;alta;1944191.13
+745;Huawei;P40 ;gris plata;256GB;8mp;6.2;alta;1983371.54
+746;OnePlus;9;gris plomo;128GB;16mp;4.5;media;1809468.81
+747;iPhone;12;negro;512GB;8mp;6.9;media;498532.78
+748;Huawei;P40 ;gris plata;512GB;24mp;5.9;media plus;1433584.15
+749;OnePlus;9;blanco;256GB;16mp;4.2;alta plus;1681504.49
+750;Google;Pixel 5;azul;128GB;24mp;7.8;premium oro;499869.91
+751;Google;Pixel 5;azul;256GB;24mp;7.6;alta;463804.33
+752;OnePlus;9;gris plomo;512GB;20mp;9.6;alta;817539.02
+753;Google;Pixel 5;gris plata;128GB;24mp;7.6;alta;53271.31
+754;Huawei;P40 ;rojo;128GB;20mp;5.1;media;1692601.97
+755;iPhone;12;gris plata;128GB;24mp;9.0;alta;404037.24
+756;iPhone;12;blanco;512GB;24mp;5.0;alta;132873.84
+757;Google;Pixel 5;negro;128GB;8mp;4.3;media;9931.02
+758;Samsung;Galaxy S21;amarillo;256GB;8mp;8.9;media plus;1356197.85
+759;Google;Pixel 5;azul;128GB;8mp;4.8;alta plus;1423258.21
+760;iPhone;12;gris plata;512GB;8mp;6.2;media;564479.5
+761;OnePlus;9;rosa;64GB;12mp;8.7;media plus;1092296.33
+762;OnePlus;9;gris plata;64GB;12mp;4.6;alta;1535385.19
+763;Samsung;Galaxy S21;rosa;256GB;12mp;7.5;premium plata;1396486.59
+764;Samsung;Galaxy S21;amarillo;64GB;8mp;4.2;media;211095.83
+765;iPhone;12;blanco;128GB;24mp;5.1;media plus;1751079.36
+766;Huawei;P40 ;amarillo;128GB;8mp;7.6;alta;1562128.88
+767;Samsung;Galaxy S21;azul;128GB;16mp;4.1;alta plus;558959.88
+768;Huawei;P40 ;gris plata;512GB;12mp;6.6;premium oro;1934690.51
+769;OnePlus;9;negro;128GB;16mp;6.3;alta plus;1017957.3
+770;Huawei;P40 ;gris plata;64GB;24mp;8.7;media;1477476.37
+771;OnePlus;9;amarillo;256GB;20mp;6.8;premium plata;618816.48
+772;Huawei;P40 ;azul;256GB;24mp;9.5;alta plus;212918.02
+773;Samsung;Galaxy S21;rojo;128GB;12mp;6.2;alta;1378018.11
+774;iPhone;12;blanco;128GB;16mp;5.5;premium oro;1678217.57
+775;iPhone;12;rojo;128GB;12mp;8.8;alta;1012480.49
+776;Samsung;Galaxy S21;gris plata;256GB;20mp;6.2;media plus;459717.6
+777;Huawei;P40 ;amarillo;64GB;12mp;6.7;premium oro;1428014.44
+778;OnePlus;9;blanco;64GB;16mp;4.3;alta;569798.15
+779;Huawei;P40 ;gris plomo;256GB;16mp;6.4;premium oro;1519547.69
+780;Google;Pixel 5;rojo;256GB;12mp;7.0;premium plata;720571.48
+781;iPhone;12;gris plomo;128GB;16mp;5.3;media plus;1307956.84
+782;iPhone;12;azul;512GB;24mp;7.5;alta plus;865597.93
+783;Huawei;P40 ;amarillo;512GB;8mp;5.9;media;1478874.94
+784;Samsung;Galaxy S21;azul;512GB;20mp;7.6;premium plata;1891074.74
+785;Google;Pixel 5;negro;256GB;20mp;8.2;media plus;914343.75
+786;Huawei;P40 ;amarillo;512GB;20mp;7.4;premium oro;255489.41
+787;Samsung;Galaxy S21;blanco;64GB;8mp;6.8;media;851163.42
+788;Huawei;P40 ;blanco;64GB;16mp;8.6;premium plata;1599686.8
+789;Google;Pixel 5;azul;512GB;8mp;4.1;media;1525542.59
+790;Google;Pixel 5;amarillo;512GB;16mp;6.1;media;1150834.4
+791;Google;Pixel 5;rosa;64GB;20mp;5.1;premium oro;1284032.57
+792;Huawei;P40 ;blanco;64GB;12mp;7.1;media;701244.1
+793;Huawei;P40 ;rojo;256GB;12mp;8.1;media;519831.63
+794;OnePlus;9;rojo;512GB;20mp;8.6;alta plus;1520162.99
+795;iPhone;12;amarillo;256GB;24mp;7.2;premium plata;1101326.14
+796;iPhone;12;gris plomo;64GB;24mp;9.2;premium oro;18781.32
+797;OnePlus;9;azul;512GB;8mp;8.8;premium plata;285988.01
+798;OnePlus;9;azul;64GB;24mp;7.0;premium plata;293475.76
+799;OnePlus;9;gris plata;128GB;8mp;6.5;media plus;1620213.45
+800;Google;Pixel 5;negro;256GB;12mp;8.2;alta plus;430253.18
+801;Huawei;P40 ;negro;256GB;8mp;9.5;media plus;365114.33
+802;iPhone;12;azul;256GB;16mp;5.8;premium oro;385694.51
+803;OnePlus;9;rosa;512GB;20mp;8.8;alta;1493894.24
+804;OnePlus;9;gris plata;256GB;24mp;9.4;alta;1717562.63
+805;Samsung;Galaxy S21;gris plata;64GB;8mp;5.1;alta;1303847.21
+806;iPhone;12;blanco;512GB;16mp;9.3;alta plus;1365678.18
+807;Samsung;Galaxy S21;gris plata;512GB;24mp;4.4;alta;1035839.5
+808;Huawei;P40 ;rosa;512GB;20mp;6.0;premium oro;842220.2
+809;Samsung;Galaxy S21;rojo;256GB;24mp;4.3;premium plata;1378538.69
+810;Huawei;P40 ;gris plata;128GB;16mp;8.5;media plus;1166950.08
+811;Google;Pixel 5;rojo;256GB;16mp;5.6;premium plata;173548.2
+812;Huawei;P40 ;rojo;256GB;24mp;5.0;premium oro;749366.13
+813;Huawei;P40 ;negro;128GB;24mp;4.1;media plus;1381850.27
+814;Samsung;Galaxy S21;gris plata;128GB;8mp;8.8;media;566964.73
+815;OnePlus;9;gris plata;512GB;16mp;8.9;media;998573.27
+816;Google;Pixel 5;azul;128GB;8mp;4.2;media;429617.69
+817;Samsung;Galaxy S21;rojo;64GB;12mp;7.0;alta;1418857.52
+818;Google;Pixel 5;rosa;64GB;20mp;4.6;media;539677.81
+819;Huawei;P40 ;gris plata;512GB;20mp;5.1;alta;468899.19
+820;Google;Pixel 5;blanco;128GB;8mp;9.7;premium plata;246800.27
+821;Google;Pixel 5;gris plomo;128GB;12mp;7.4;alta;1067496.26
+822;OnePlus;9;blanco;512GB;24mp;6.1;premium plata;290392.34
+823;Samsung;Galaxy S21;rosa;128GB;20mp;9.0;premium plata;1552503.01
+824;Huawei;P40 ;amarillo;64GB;24mp;7.3;alta plus;754194.12
+825;iPhone;12;rojo;64GB;8mp;9.1;media plus;1080753.09
+826;Google;Pixel 5;rojo;64GB;8mp;4.1;premium plata;391267.72
+827;Google;Pixel 5;rosa;256GB;12mp;5.5;premium oro;1514192.89
+828;OnePlus;9;blanco;128GB;16mp;8.1;premium oro;771617.79
+829;Huawei;P40 ;rojo;64GB;16mp;6.5;alta;171206.48
+830;OnePlus;9;rojo;256GB;20mp;6.2;media plus;349651.39
+831;Google;Pixel 5;rojo;128GB;12mp;9.8;media plus;558045.34
+832;Google;Pixel 5;blanco;128GB;8mp;7.8;media plus;10935.22
+833;Samsung;Galaxy S21;blanco;64GB;20mp;6.9;premium oro;1358682.41
+834;Google;Pixel 5;rojo;512GB;16mp;5.8;premium plata;1088692.47
+835;Huawei;P40 ;gris plomo;256GB;12mp;6.9;media;153694.27
+836;iPhone;12;gris plata;512GB;24mp;8.4;alta plus;1425905.8
+837;Google;Pixel 5;gris plata;256GB;20mp;5.0;premium plata;1637495.65
+838;Samsung;Galaxy S21;gris plata;64GB;20mp;9.6;alta plus;1141510.7
+839;OnePlus;9;blanco;256GB;12mp;8.8;premium oro;1006503.55
+840;Google;Pixel 5;azul;512GB;8mp;8.4;media plus;1999604.65
+841;Huawei;P40 ;amarillo;512GB;16mp;8.1;premium plata;1317358.34
+842;Samsung;Galaxy S21;negro;128GB;8mp;5.6;media plus;1572801.15
+843;OnePlus;9;rojo;128GB;8mp;7.6;premium oro;1716543.9
+844;Google;Pixel 5;rosa;512GB;8mp;6.5;media plus;190442.93
+845;Huawei;P40 ;negro;128GB;16mp;7.9;media plus;1281312.09
+846;Huawei;P40 ;gris plata;256GB;20mp;5.0;alta plus;580437.9
+847;Google;Pixel 5;blanco;512GB;24mp;8.1;media;494311.99
+848;Google;Pixel 5;amarillo;256GB;16mp;9.3;media;388348.69
+849;OnePlus;9;azul;512GB;12mp;5.5;media plus;1343306.58
+850;OnePlus;9;blanco;256GB;16mp;8.7;alta;1024864.55
+851;Samsung;Galaxy S21;rojo;64GB;20mp;5.0;media;618325.82
+852;Google;Pixel 5;blanco;256GB;12mp;6.6;alta plus;1181292.19
+853;Google;Pixel 5;rojo;256GB;12mp;7.8;media;1967462.68
+854;OnePlus;9;gris plomo;128GB;8mp;8.0;alta;314474.51
+855;OnePlus;9;rojo;64GB;20mp;6.9;premium oro;1085728.14
+856;iPhone;12;negro;128GB;8mp;8.1;premium plata;828305.44
+857;Huawei;P40 ;azul;512GB;8mp;8.6;premium plata;1775539.24
+858;Samsung;Galaxy S21;amarillo;256GB;8mp;7.3;premium oro;613445.04
+859;Huawei;P40 ;amarillo;256GB;8mp;9.7;alta plus;218718.02
+860;OnePlus;9;rosa;64GB;20mp;8.0;premium oro;490202.74
+861;Google;Pixel 5;gris plomo;512GB;16mp;6.8;premium plata;1680527.38
+862;Huawei;P40 ;rojo;256GB;20mp;5.7;media;612483.75
+863;Samsung;Galaxy S21;rosa;128GB;8mp;8.2;alta;1804327.7
+864;OnePlus;9;rojo;64GB;16mp;6.5;media;296079.61
+865;iPhone;12;rojo;512GB;8mp;8.6;alta plus;962280.25
+866;OnePlus;9;rosa;64GB;24mp;6.1;premium plata;359527.04
+867;OnePlus;9;azul;256GB;24mp;7.4;premium oro;1087932.38
+868;Google;Pixel 5;rosa;128GB;24mp;8.9;media plus;888153.85
+869;iPhone;12;negro;128GB;24mp;7.3;media;796112.32
+870;Huawei;P40 ;negro;512GB;16mp;9.9;media plus;487374.75
+871;Google;Pixel 5;gris plata;128GB;16mp;4.5;premium oro;1709645.97
+872;Huawei;P40 ;amarillo;512GB;12mp;9.7;premium plata;1847400.83
+873;Google;Pixel 5;gris plata;256GB;12mp;6.9;alta plus;23805.83
+874;Huawei;P40 ;rojo;128GB;16mp;6.1;alta;1537033.25
+875;iPhone;12;blanco;64GB;8mp;6.1;premium oro;435575.84
+876;Huawei;P40 ;amarillo;128GB;24mp;8.6;alta;1149125.78
+877;Samsung;Galaxy S21;azul;512GB;24mp;9.9;media;1698547.95
+878;Huawei;P40 ;gris plata;256GB;24mp;6.0;alta plus;249382.41
+879;Huawei;P40 ;amarillo;256GB;12mp;6.8;premium plata;409046.67
+880;OnePlus;9;gris plomo;128GB;8mp;9.2;media;1424593.82
+881;Samsung;Galaxy S21;gris plata;256GB;8mp;7.1;alta plus;1305269.75
+882;Google;Pixel 5;rojo;256GB;20mp;4.7;media plus;560607.1
+883;OnePlus;9;amarillo;256GB;8mp;6.5;media plus;546833.88
+884;Huawei;P40 ;amarillo;512GB;24mp;5.9;alta;1634053.89
+885;OnePlus;9;rojo;128GB;12mp;8.0;media;506487.86
+886;Samsung;Galaxy S21;blanco;64GB;16mp;6.0;media plus;998739.89
+887;Huawei;P40 ;negro;512GB;20mp;7.4;premium plata;224508.88
+888;Samsung;Galaxy S21;blanco;256GB;12mp;5.8;alta;1135154.99
+889;Samsung;Galaxy S21;gris plata;64GB;8mp;7.1;premium oro;422897.37
+890;Huawei;P40 ;azul;128GB;20mp;8.2;premium plata;450499.64
+891;Google;Pixel 5;rosa;64GB;12mp;9.4;alta;1476008.18
+892;Samsung;Galaxy S21;amarillo;64GB;16mp;6.1;media plus;985535.04
+893;Google;Pixel 5;rojo;128GB;12mp;9.5;media plus;649423.97
+894;iPhone;12;gris plomo;512GB;24mp;4.0;alta;1611885.75
+895;Google;Pixel 5;rosa;256GB;20mp;5.8;media;994207.2
+896;Google;Pixel 5;rosa;128GB;20mp;5.2;media;457047.27
+897;Samsung;Galaxy S21;rojo;128GB;20mp;4.6;alta plus;943150.65
+898;OnePlus;9;gris plomo;128GB;8mp;7.3;media plus;60630.13
+899;Google;Pixel 5;gris plomo;64GB;8mp;4.6;media plus;972740.51
+900;Samsung;Galaxy S21;gris plomo;128GB;8mp;4.1;media;1703433.82
+901;OnePlus;9;blanco;64GB;20mp;7.0;alta;1002536.87
+902;Samsung;Galaxy S21;rosa;512GB;16mp;9.1;media;1629812.5
+903;OnePlus;9;rojo;64GB;24mp;5.6;media;117274.39
+904;iPhone;12;azul;64GB;12mp;9.4;media;878747.14
+905;Samsung;Galaxy S21;azul;256GB;12mp;7.2;media plus;215709.23
+906;Google;Pixel 5;rojo;64GB;20mp;5.1;premium plata;1533787.04
+907;Huawei;P40 ;gris plata;256GB;16mp;4.8;alta plus;345928.43
+908;Samsung;Galaxy S21;gris plomo;64GB;12mp;5.1;alta;1497341.31
+909;Google;Pixel 5;amarillo;128GB;8mp;9.4;premium plata;101996.51
+910;iPhone;12;rosa;64GB;8mp;6.1;alta;651633.28
+911;Huawei;P40 ;rosa;128GB;24mp;4.7;premium oro;342838.49
+912;Google;Pixel 5;blanco;128GB;24mp;4.1;alta plus;108937.66
+913;OnePlus;9;amarillo;128GB;24mp;6.0;media plus;978701.79
+914;OnePlus;9;gris plata;64GB;24mp;6.3;premium plata;1567803.95
+915;OnePlus;9;negro;256GB;8mp;5.8;alta plus;325318.91
+916;Huawei;P40 ;gris plata;128GB;12mp;9.1;alta;997179.89
+917;OnePlus;9;negro;256GB;12mp;6.3;alta plus;470932.32
+918;Samsung;Galaxy S21;gris plomo;256GB;16mp;8.9;premium plata;1523639.68
+919;Google;Pixel 5;rojo;64GB;16mp;9.3;media plus;567965.76
+920;OnePlus;9;gris plomo;512GB;16mp;5.8;premium plata;429710.3
+921;OnePlus;9;rojo;64GB;24mp;4.9;premium oro;766824.86
+922;Samsung;Galaxy S21;gris plomo;256GB;8mp;4.9;media plus;570845.08
+923;iPhone;12;rojo;128GB;20mp;7.4;media plus;558611.72
+924;iPhone;12;azul;128GB;20mp;8.4;alta plus;1295838.58
+925;iPhone;12;gris plomo;64GB;24mp;8.2;media plus;1398431.94
+926;iPhone;12;blanco;64GB;16mp;7.2;alta;306734.98
+927;Huawei;P40 ;rosa;512GB;24mp;4.4;premium oro;1326373.21
+928;OnePlus;9;gris plomo;64GB;12mp;8.1;alta plus;1712735.94
+929;OnePlus;9;negro;256GB;12mp;8.0;media;818611.27
+930;iPhone;12;amarillo;64GB;24mp;9.1;media plus;744657.7
+931;iPhone;12;amarillo;64GB;24mp;8.7;premium plata;1903426.16
+932;Huawei;P40 ;rosa;256GB;16mp;7.7;premium oro;1885879.68
+933;Google;Pixel 5;azul;512GB;12mp;4.8;premium plata;1531031.84
+934;Samsung;Galaxy S21;rojo;64GB;12mp;8.6;premium plata;234553.25
+935;iPhone;12;rosa;512GB;24mp;4.1;alta plus;755949.56
+936;iPhone;12;rosa;128GB;12mp;9.7;alta plus;1283819.79
+937;Huawei;P40 ;gris plomo;256GB;24mp;6.3;alta;953286.28
+938;Huawei;P40 ;rosa;64GB;8mp;7.3;alta;217413.11
+939;Samsung;Galaxy S21;rosa;128GB;12mp;4.8;media;1124970.62
+940;Google;Pixel 5;azul;128GB;24mp;5.5;premium plata;602235.67
+941;iPhone;12;azul;512GB;8mp;7.0;media;634298.08
+942;OnePlus;9;rosa;512GB;20mp;4.6;media plus;24343.03
+943;iPhone;12;azul;128GB;20mp;6.5;premium plata;777970.49
+944;Huawei;P40 ;rosa;512GB;20mp;6.6;premium oro;361177.88
+945;Samsung;Galaxy S21;amarillo;256GB;24mp;9.0;media plus;332409.16
+946;OnePlus;9;rojo;64GB;8mp;5.7;premium plata;401617.0
+947;Samsung;Galaxy S21;negro;512GB;16mp;5.6;alta plus;1613716.25
+948;Huawei;P40 ;gris plomo;512GB;8mp;5.7;media plus;1847516.97
+949;Google;Pixel 5;gris plata;512GB;12mp;5.7;media plus;1738049.6
+950;OnePlus;9;rosa;256GB;24mp;7.4;media plus;1730005.32
+951;iPhone;12;negro;64GB;8mp;5.4;media;825644.05
+952;iPhone;12;azul;256GB;16mp;7.3;media;651302.22
+953;Samsung;Galaxy S21;negro;512GB;20mp;8.3;premium oro;307535.34
+954;Google;Pixel 5;rojo;64GB;8mp;4.9;media;474443.92
+955;Huawei;P40 ;blanco;128GB;8mp;9.1;media plus;1595439.51
+956;iPhone;12;negro;64GB;20mp;5.9;media plus;1070426.61
+957;Google;Pixel 5;gris plata;512GB;8mp;7.9;premium plata;437113.55
+958;OnePlus;9;gris plomo;128GB;12mp;8.4;premium plata;1662168.81
+959;OnePlus;9;gris plomo;64GB;20mp;6.9;alta;1120512.13
+960;Samsung;Galaxy S21;amarillo;128GB;12mp;8.5;premium oro;1688808.76
+961;OnePlus;9;blanco;128GB;12mp;6.4;media plus;1648023.09
+962;Samsung;Galaxy S21;negro;512GB;24mp;5.7;alta plus;334492.18
+963;OnePlus;9;gris plomo;64GB;12mp;9.2;alta;1597493.79
+964;OnePlus;9;azul;256GB;20mp;6.1;premium plata;1316443.44
+965;Samsung;Galaxy S21;gris plata;128GB;12mp;5.4;premium oro;712297.52
+966;Samsung;Galaxy S21;blanco;256GB;12mp;5.1;premium oro;1349310.48
+967;Huawei;P40 ;amarillo;64GB;12mp;5.9;alta plus;1743847.18
+968;iPhone;12;blanco;128GB;8mp;9.3;premium oro;757594.8
+969;Google;Pixel 5;blanco;256GB;12mp;5.1;alta;1193532.25
+970;OnePlus;9;negro;256GB;24mp;9.1;media;178938.62
+971;Huawei;P40 ;blanco;512GB;8mp;6.9;premium plata;1097985.31
+972;iPhone;12;azul;128GB;12mp;8.1;media plus;651933.95
+973;Google;Pixel 5;amarillo;64GB;8mp;6.2;media plus;577319.7
+974;Samsung;Galaxy S21;gris plata;256GB;16mp;4.1;alta plus;293681.58
+975;Huawei;P40 ;blanco;128GB;20mp;5.5;premium oro;271396.82
+976;OnePlus;9;azul;512GB;16mp;7.5;media;1144675.89
+977;Huawei;P40 ;gris plomo;256GB;16mp;6.7;premium plata;1638140.17
+978;Samsung;Galaxy S21;gris plata;128GB;12mp;5.6;media;1606979.91
+979;Huawei;P40 ;gris plata;128GB;20mp;6.7;premium plata;112200.55
+980;OnePlus;9;gris plomo;128GB;8mp;9.2;premium plata;260549.2
+981;Samsung;Galaxy S21;gris plata;128GB;24mp;7.0;alta plus;918193.26
+982;Samsung;Galaxy S21;blanco;128GB;24mp;7.2;media;1273148.91
+983;Google;Pixel 5;amarillo;512GB;20mp;9.9;alta;842780.43
+984;iPhone;12;rosa;64GB;12mp;9.6;premium oro;682923.76
+985;Samsung;Galaxy S21;gris plata;64GB;24mp;8.3;media plus;7857.73
+986;Huawei;P40 ;gris plomo;512GB;8mp;8.0;alta plus;1433909.84
+987;Huawei;P40 ;blanco;256GB;16mp;7.1;alta plus;41123.08
+988;Huawei;P40 ;gris plata;512GB;12mp;8.3;alta plus;1604232.11
+989;OnePlus;9;rosa;128GB;24mp;5.0;alta;1849832.28
+990;Huawei;P40 ;rojo;64GB;20mp;6.5;media;1401926.04
+991;Samsung;Galaxy S21;amarillo;128GB;16mp;4.1;premium plata;1080771.62
+992;OnePlus;9;rojo;256GB;16mp;8.6;media plus;985179.95
+993;Huawei;P40 ;amarillo;128GB;16mp;4.2;premium oro;1073037.61
+994;Samsung;Galaxy S21;rojo;128GB;12mp;9.2;media;893334.76
+995;OnePlus;9;gris plomo;64GB;20mp;7.1;alta plus;445508.4
+996;OnePlus;9;azul;64GB;16mp;5.3;media;332565.08
+997;iPhone;12;gris plomo;64GB;20mp;6.8;premium plata;659509.72
+998;Google;Pixel 5;rosa;256GB;24mp;8.9;premium plata;1272881.92
+999;iPhone;12;rosa;64GB;24mp;9.7;media;102864.97
+1000;Huawei;P40 ;amarillo;512GB;16mp;9.8;media;132200.74

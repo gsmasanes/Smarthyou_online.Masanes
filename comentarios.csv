@@ -1,0 +1,621 @@
+id_comentario;fecha;calificacion;comentario;id_order
+4000;2023-07-11;2;estoy muy disconforme;1000
+4001;2021-10-22;4;estoy muy disconforme;1001
+4002;2019-08-13;6;todo muy bien;1002
+4003;2022-10-08;4;estoy muy disconforme;1003
+4004;2020-11-07;4;estoy muy disconforme;1004
+4005;2020-11-13;8;muy recomendado;1005
+4006;2014-01-21;8;todo muy bien;1006
+4007;2013-12-29;6;todo muy bien;1007
+4008;2017-02-13;7;todo muy bien;1008
+4009;2019-07-24;7;muy recomendado;1009
+4010;2019-06-28;4;estoy muy disconforme;1010
+4011;2023-02-15;4;estoy muy disconforme;1011
+4012;2015-08-20;6;todo muy bien;1012
+4013;2016-03-09;9;servicio excelente;1013
+4014;2019-10-12;7;muy recomendado;1014
+4015;2014-10-29;1;estoy muy disconforme;1015
+4016;2016-04-16;4;estoy muy disconforme;1016
+4017;2018-12-09;2;estoy muy disconforme;1017
+4018;2023-01-17;1;estoy muy disconforme;1018
+4019;2019-10-17;2;estoy muy disconforme;1019
+4020;2014-04-11;8;todo muy bien;1020
+4021;2023-01-06;5;estoy muy disconforme;1021
+4022;2023-06-09;6;todo muy bien;1022
+4023;2023-06-08;1;estoy muy disconforme;1023
+4024;2022-09-10;8;todo muy bien;1024
+4025;2016-09-26;1;estoy muy disconforme;1025
+4026;2020-07-07;3;estoy muy disconforme;1026
+4027;2019-09-24;2;estoy muy disconforme;1027
+4028;2020-05-12;5;estoy muy disconforme;1028
+4029;2024-03-29;6;todo muy bien;1029
+4030;2010-04-30;6;todo muy bien;1030
+4031;2020-12-01;1;estoy muy disconforme;1031
+4032;2015-06-23;10;experiencia positiva;1032
+4033;2022-04-05;5;estoy muy disconforme;1033
+4034;2015-07-02;8;todo muy bien;1034
+4035;2024-02-22;7;todo muy bien;1035
+4036;2022-04-12;10;experiencia positiva;1036
+4037;2010-03-08;1;estoy muy disconforme;1037
+4038;2022-08-02;7;todo muy bien;1038
+4039;2022-05-06;8;todo muy bien;1039
+4040;2017-12-12;1;estoy muy disconforme;1040
+4041;2020-11-02;5;estoy muy disconforme;1041
+4042;2014-04-27;6;todo muy bien;1042
+4043;2015-09-05;8;todo muy bien;1043
+4044;2023-05-13;7;todo muy bien;1044
+4045;2021-10-24;7;todo muy bien;1045
+4046;2023-06-07;5;estoy muy disconforme;1046
+4047;2014-05-06;3;estoy muy disconforme;1047
+4048;2014-05-04;6;todo muy bien;1048
+4049;2023-07-24;6;todo muy bien;1049
+4050;2016-10-24;10;experiencia positiva;1050
+4051;2010-04-26;5;estoy muy disconforme;1051
+4052;2023-03-14;4;estoy muy disconforme;1052
+4053;2022-08-15;8;muy recomendado;1053
+4054;2022-04-19;5;estoy muy disconforme;1054
+4055;2023-06-07;6;todo muy bien;1055
+4056;2015-09-25;6;todo muy bien;1056
+4057;2016-09-27;4;estoy muy disconforme;1057
+4058;2013-03-07;1;estoy muy disconforme;1058
+4059;2020-11-30;9;experiencia positiva;1059
+4060;2014-05-16;10;servicio excelente;1060
+4061;2023-03-17;9;experiencia positiva;1061
+4062;2022-05-28;6;todo muy bien;1062
+4063;2012-11-22;7;todo muy bien;1063
+4064;2024-02-03;8;todo muy bien;1064
+4065;2023-05-18;7;todo muy bien;1065
+4066;2015-01-14;4;estoy muy disconforme;1066
+4067;2021-02-13;3;estoy muy disconforme;1067
+4068;2020-12-06;8;todo muy bien;1068
+4069;2013-03-01;8;todo muy bien;1069
+4070;2023-08-31;1;estoy muy disconforme;1070
+4071;2023-03-13;10;servicio excelente;1071
+4072;2013-09-22;9;servicio excelente;1072
+4073;2024-02-18;9;servicio excelente;1073
+4074;2014-11-13;10;experiencia positiva;1074
+4075;2023-03-24;7;todo muy bien;1075
+4076;2022-08-15;4;estoy muy disconforme;1076
+4077;2014-02-05;7;todo muy bien;1077
+4078;2018-10-24;5;estoy muy disconforme;1078
+4079;2022-10-23;6;muy recomendado;1079
+4080;2022-09-17;9;servicio excelente;1080
+4081;2023-06-30;10;experiencia positiva;1081
+4082;2015-08-29;8;todo muy bien;1082
+4083;2022-07-27;6;todo muy bien;1083
+4084;2012-12-20;8;todo muy bien;1084
+4085;2014-04-23;9;servicio excelente;1085
+4086;2023-03-28;4;estoy muy disconforme;1086
+4087;2024-04-08;9;servicio excelente;1087
+4088;2023-04-13;2;estoy muy disconforme;1088
+4089;2011-07-12;7;todo muy bien;1089
+4090;2017-02-26;10;servicio excelente;1090
+4091;2022-05-31;9;servicio excelente;1091
+4092;2023-11-14;9;experiencia positiva;1092
+4093;2023-03-09;1;estoy muy disconforme;1093
+4094;2012-08-27;2;estoy muy disconforme;1094
+4095;2015-09-08;10;servicio excelente;1095
+4096;2015-06-13;7;muy recomendado;1096
+4097;2018-03-11;8;todo muy bien;1097
+4098;2017-01-18;4;estoy muy disconforme;1098
+4099;2021-03-03;9;experiencia positiva;1099
+4100;2021-06-17;7;todo muy bien;1100
+4101;2023-11-24;7;todo muy bien;1101
+4102;2023-09-19;9;servicio excelente;1102
+4103;2019-04-04;4;estoy muy disconforme;1103
+4104;2014-01-13;7;todo muy bien;1104
+4105;2022-01-02;6;todo muy bien;1105
+4106;2011-12-07;8;todo muy bien;1106
+4107;2022-01-18;10;experiencia positiva;1107
+4108;2011-08-13;4;estoy muy disconforme;1108
+4109;2014-07-19;3;estoy muy disconforme;1109
+4110;2010-03-12;7;todo muy bien;1110
+4111;2023-04-27;4;estoy muy disconforme;1111
+4112;2024-03-19;7;todo muy bien;1112
+4113;2023-04-17;2;estoy muy disconforme;1113
+4114;2010-09-28;3;estoy muy disconforme;1114
+4115;2023-08-09;8;muy recomendado;1115
+4116;2017-07-15;3;estoy muy disconforme;1116
+4117;2015-11-24;6;todo muy bien;1117
+4118;2017-02-06;10;servicio excelente;1118
+4119;2023-05-26;4;estoy muy disconforme;1119
+4120;2023-07-14;1;estoy muy disconforme;1120
+4121;2012-04-18;3;estoy muy disconforme;1121
+4122;2024-01-21;9;servicio excelente;1122
+4123;2022-03-10;7;todo muy bien;1123
+4124;2014-04-29;7;todo muy bien;1124
+4125;2022-08-06;8;todo muy bien;1125
+4126;2020-05-06;4;estoy muy disconforme;1126
+4127;2017-12-20;1;estoy muy disconforme;1127
+4128;2022-04-07;9;experiencia positiva;1128
+4129;2014-01-19;5;estoy muy disconforme;1129
+4130;2012-02-29;2;estoy muy disconforme;1130
+4131;2019-08-08;9;experiencia positiva;1131
+4132;2024-03-01;10;experiencia positiva;1132
+4133;2012-03-18;8;todo muy bien;1133
+4134;2022-02-15;2;estoy muy disconforme;1134
+4135;2023-04-30;4;estoy muy disconforme;1135
+4136;2024-03-28;7;todo muy bien;1136
+4137;2021-08-26;2;estoy muy disconforme;1137
+4138;2010-01-18;1;estoy muy disconforme;1138
+4139;2010-02-26;10;experiencia positiva;1139
+4140;2024-03-17;1;estoy muy disconforme;1140
+4141;2021-10-15;6;todo muy bien;1141
+4142;2022-05-26;3;estoy muy disconforme;1142
+4143;2024-01-13;6;todo muy bien;1143
+4144;2022-03-11;4;estoy muy disconforme;1144
+4145;2017-05-21;8;todo muy bien;1145
+4146;2014-04-18;3;estoy muy disconforme;1146
+4147;2024-01-24;2;estoy muy disconforme;1147
+4148;2019-08-04;1;estoy muy disconforme;1148
+4149;2022-04-03;3;estoy muy disconforme;1149
+4150;2013-04-01;2;estoy muy disconforme;1150
+4151;2016-08-04;8;todo muy bien;1151
+4152;2019-04-25;6;muy recomendado;1152
+4153;2022-08-04;4;estoy muy disconforme;1153
+4154;2011-12-15;10;experiencia positiva;1154
+4155;2016-03-30;6;todo muy bien;1155
+4156;2023-06-05;8;todo muy bien;1156
+4157;2018-05-30;10;servicio excelente;1157
+4158;2019-04-15;6;todo muy bien;1158
+4159;2023-06-03;2;estoy muy disconforme;1159
+4160;2015-06-05;7;todo muy bien;1160
+4161;2013-03-10;8;todo muy bien;1161
+4162;2023-06-04;5;estoy muy disconforme;1162
+4163;2022-03-30;4;estoy muy disconforme;1163
+4164;2021-03-17;9;servicio excelente;1164
+4165;2021-09-17;6;todo muy bien;1165
+4166;2017-09-19;10;servicio excelente;1166
+4167;2023-08-13;5;estoy muy disconforme;1167
+4168;2019-06-22;7;todo muy bien;1168
+4169;2016-01-17;5;estoy muy disconforme;1169
+4170;2023-06-14;8;todo muy bien;1170
+4171;2017-03-03;10;servicio excelente;1171
+4172;2020-09-08;1;estoy muy disconforme;1172
+4173;2022-07-08;5;estoy muy disconforme;1173
+4174;2013-01-12;7;todo muy bien;1174
+4175;2023-05-22;1;estoy muy disconforme;1175
+4176;2016-03-03;8;todo muy bien;1176
+4177;2019-04-04;6;todo muy bien;1177
+4178;2015-08-16;7;todo muy bien;1178
+4179;2017-05-20;8;todo muy bien;1179
+4180;2017-04-30;4;estoy muy disconforme;1180
+4181;2020-02-18;1;estoy muy disconforme;1181
+4182;2020-04-19;1;estoy muy disconforme;1182
+4183;2014-04-18;10;experiencia positiva;1183
+4184;2022-08-20;6;todo muy bien;1184
+4185;2019-03-08;2;estoy muy disconforme;1185
+4186;2023-06-03;3;estoy muy disconforme;1186
+4187;2011-05-10;2;estoy muy disconforme;1187
+4188;2014-10-21;2;estoy muy disconforme;1188
+4189;2020-03-09;3;estoy muy disconforme;1189
+4190;2017-07-21;4;estoy muy disconforme;1190
+4191;2019-07-20;5;estoy muy disconforme;1191
+4192;2013-11-05;4;estoy muy disconforme;1192
+4193;2023-05-17;6;todo muy bien;1193
+4194;2012-09-03;5;estoy muy disconforme;1194
+4195;2015-06-24;7;todo muy bien;1195
+4196;2021-06-02;4;estoy muy disconforme;1196
+4197;2023-09-12;3;estoy muy disconforme;1197
+4198;2023-07-01;1;estoy muy disconforme;1198
+4199;2022-08-15;9;experiencia positiva;1199
+4200;2022-05-16;5;estoy muy disconforme;1200
+4201;2019-03-21;5;estoy muy disconforme;1201
+4202;2015-05-14;2;estoy muy disconforme;1202
+4203;2022-06-23;10;experiencia positiva;1203
+4204;2023-07-20;10;servicio excelente;1204
+4205;2019-10-08;5;estoy muy disconforme;1205
+4206;2022-06-17;4;estoy muy disconforme;1206
+4207;2014-05-18;7;todo muy bien;1207
+4208;2016-07-21;1;estoy muy disconforme;1208
+4209;2023-02-23;8;todo muy bien;1209
+4210;2011-08-05;7;todo muy bien;1210
+4211;2019-11-19;3;estoy muy disconforme;1211
+4212;2019-10-30;3;estoy muy disconforme;1212
+4213;2020-05-22;9;servicio excelente;1213
+4214;2014-11-06;8;todo muy bien;1214
+4215;2018-06-07;5;estoy muy disconforme;1215
+4216;2023-03-25;3;estoy muy disconforme;1216
+4217;2018-08-24;1;estoy muy disconforme;1217
+4218;2023-08-05;9;experiencia positiva;1218
+4219;2021-05-17;10;servicio excelente;1219
+4220;2021-09-16;3;estoy muy disconforme;1220
+4221;2021-09-20;5;estoy muy disconforme;1221
+4222;2018-08-25;7;todo muy bien;1222
+4223;2011-01-26;3;estoy muy disconforme;1223
+4224;2016-01-01;4;estoy muy disconforme;1224
+4225;2019-03-15;10;servicio excelente;1225
+4226;2022-08-15;3;estoy muy disconforme;1226
+4227;2012-05-27;7;todo muy bien;1227
+4228;2019-08-13;9;servicio excelente;1228
+4229;2024-04-10;10;servicio excelente;1229
+4230;2011-04-30;5;estoy muy disconforme;1230
+4231;2024-01-02;2;estoy muy disconforme;1231
+4232;2010-07-02;6;todo muy bien;1232
+4233;2019-11-26;2;estoy muy disconforme;1233
+4234;2012-05-22;3;estoy muy disconforme;1234
+4235;2022-01-07;3;estoy muy disconforme;1235
+4236;2018-04-01;1;estoy muy disconforme;1236
+4237;2023-01-14;9;servicio excelente;1237
+4238;2015-01-11;1;estoy muy disconforme;1238
+4239;2023-12-07;9;servicio excelente;1239
+4240;2013-04-02;2;estoy muy disconforme;1240
+4241;2012-02-22;9;experiencia positiva;1241
+4242;2016-06-11;6;todo muy bien;1242
+4243;2019-11-07;4;estoy muy disconforme;1243
+4244;2013-04-02;1;estoy muy disconforme;1244
+4245;2018-05-09;5;estoy muy disconforme;1245
+4246;2022-08-05;7;todo muy bien;1246
+4247;2014-10-22;10;experiencia positiva;1247
+4248;2014-05-02;4;estoy muy disconforme;1248
+4249;2019-07-25;6;todo muy bien;1249
+4250;2020-11-09;2;estoy muy disconforme;1250
+4251;2022-01-13;5;estoy muy disconforme;1251
+4252;2013-10-24;7;todo muy bien;1252
+4253;2022-01-29;5;estoy muy disconforme;1253
+4254;2018-03-31;1;estoy muy disconforme;1254
+4255;2017-05-23;4;estoy muy disconforme;1255
+4256;2023-01-10;8;todo muy bien;1256
+4257;2023-01-24;5;estoy muy disconforme;1257
+4258;2013-04-25;10;servicio excelente;1258
+4259;2023-03-03;7;todo muy bien;1259
+4260;2010-07-26;7;todo muy bien;1260
+4261;2010-05-02;4;estoy muy disconforme;1261
+4262;2013-07-12;5;estoy muy disconforme;1262
+4263;2023-05-25;3;estoy muy disconforme;1263
+4264;2013-06-29;10;servicio excelente;1264
+4265;2019-11-07;8;todo muy bien;1265
+4266;2010-07-17;6;todo muy bien;1266
+4267;2021-04-05;8;todo muy bien;1267
+4268;2022-08-25;5;estoy muy disconforme;1268
+4269;2010-10-26;1;estoy muy disconforme;1269
+4270;2018-07-05;9;servicio excelente;1270
+4271;2023-05-21;2;estoy muy disconforme;1271
+4272;2014-05-29;7;todo muy bien;1272
+4273;2015-06-20;10;servicio excelente;1273
+4274;2019-04-28;8;todo muy bien;1274
+4275;2011-05-12;1;estoy muy disconforme;1275
+4276;2023-11-20;5;estoy muy disconforme;1276
+4277;2015-07-03;5;estoy muy disconforme;1277
+4278;2014-08-05;7;todo muy bien;1278
+4279;2016-10-14;8;muy recomendado;1279
+4280;2023-08-23;7;todo muy bien;1280
+4281;2024-03-17;5;estoy muy disconforme;1281
+4282;2011-04-20;10;servicio excelente;1282
+4283;2014-07-15;2;estoy muy disconforme;1283
+4284;2011-02-14;4;estoy muy disconforme;1284
+4285;2021-12-28;5;estoy muy disconforme;1285
+4286;2012-09-14;5;estoy muy disconforme;1286
+4287;2011-02-21;8;todo muy bien;1287
+4288;2010-01-07;8;todo muy bien;1288
+4289;2022-07-09;9;experiencia positiva;1289
+4290;2016-08-07;9;servicio excelente;1290
+4291;2023-07-04;3;estoy muy disconforme;1291
+4292;2021-07-05;3;estoy muy disconforme;1292
+4293;2021-08-31;6;todo muy bien;1293
+4294;2013-09-27;9;experiencia positiva;1294
+4295;2020-08-28;9;servicio excelente;1295
+4296;2014-11-17;3;estoy muy disconforme;1296
+4297;2015-02-17;7;todo muy bien;1297
+4298;2022-01-20;3;estoy muy disconforme;1298
+4299;2022-04-01;10;experiencia positiva;1299
+4300;2023-07-28;10;experiencia positiva;1300
+4301;2020-01-05;10;servicio excelente;1301
+4302;2018-02-15;1;estoy muy disconforme;1302
+4303;2018-06-25;1;estoy muy disconforme;1303
+4304;2023-07-16;10;servicio excelente;1304
+4305;2010-04-21;7;todo muy bien;1305
+4306;2018-05-11;10;experiencia positiva;1306
+4307;2010-09-12;9;experiencia positiva;1307
+4308;2015-01-05;8;todo muy bien;1308
+4309;2012-09-23;6;muy recomendado;1309
+4310;2014-02-17;1;estoy muy disconforme;1310
+4311;2013-04-12;2;estoy muy disconforme;1311
+4312;2023-08-29;3;estoy muy disconforme;1312
+4313;2015-09-04;3;estoy muy disconforme;1313
+4314;2023-06-19;6;todo muy bien;1314
+4315;2023-01-19;10;servicio excelente;1315
+4316;2024-03-25;7;todo muy bien;1316
+4317;2023-09-29;10;experiencia positiva;1317
+4318;2024-01-04;1;estoy muy disconforme;1318
+4319;2018-02-01;7;todo muy bien;1319
+4320;2022-02-27;1;estoy muy disconforme;1320
+4321;2024-01-03;4;estoy muy disconforme;1321
+4322;2017-02-20;5;estoy muy disconforme;1322
+4323;2019-10-16;3;estoy muy disconforme;1323
+4324;2021-10-06;3;estoy muy disconforme;1324
+4325;2019-03-26;7;todo muy bien;1325
+4326;2017-09-03;4;estoy muy disconforme;1326
+4327;2023-08-03;2;estoy muy disconforme;1327
+4328;2021-06-04;8;todo muy bien;1328
+4329;2024-03-19;5;estoy muy disconforme;1329
+4330;2022-05-04;4;estoy muy disconforme;1330
+4331;2014-04-05;8;todo muy bien;1331
+4332;2014-12-04;6;todo muy bien;1332
+4333;2016-01-21;4;estoy muy disconforme;1333
+4334;2022-02-24;6;todo muy bien;1334
+4335;2013-03-02;10;experiencia positiva;1335
+4336;2023-09-15;6;todo muy bien;1336
+4337;2010-07-14;1;estoy muy disconforme;1337
+4338;2021-08-29;4;estoy muy disconforme;1338
+4339;2023-08-09;4;estoy muy disconforme;1339
+4340;2018-12-18;10;servicio excelente;1340
+4341;2022-08-02;10;experiencia positiva;1341
+4342;2020-02-13;6;todo muy bien;1342
+4343;2019-07-24;6;todo muy bien;1343
+4344;2024-02-08;4;estoy muy disconforme;1344
+4345;2020-04-19;7;todo muy bien;1345
+4346;2011-12-07;3;estoy muy disconforme;1346
+4347;2018-02-03;6;todo muy bien;1347
+4348;2017-11-16;8;todo muy bien;1348
+4349;2016-04-16;6;todo muy bien;1349
+4350;2014-09-07;9;servicio excelente;1350
+4351;2013-06-24;3;estoy muy disconforme;1351
+4352;2023-05-10;2;estoy muy disconforme;1352
+4353;2013-10-22;9;experiencia positiva;1353
+4354;2016-08-05;2;estoy muy disconforme;1354
+4355;2020-08-25;4;estoy muy disconforme;1355
+4356;2012-05-25;5;estoy muy disconforme;1356
+4357;2022-10-19;7;todo muy bien;1357
+4358;2017-12-27;10;experiencia positiva;1358
+4359;2021-05-23;4;estoy muy disconforme;1359
+4360;2017-01-28;3;estoy muy disconforme;1360
+4361;2022-04-25;6;todo muy bien;1361
+4362;2011-02-07;7;todo muy bien;1362
+4363;2017-04-17;9;servicio excelente;1363
+4364;2014-11-06;4;estoy muy disconforme;1364
+4365;2023-07-01;1;estoy muy disconforme;1365
+4366;2018-06-24;3;estoy muy disconforme;1366
+4367;2015-02-26;5;estoy muy disconforme;1367
+4368;2023-08-30;1;estoy muy disconforme;1368
+4369;2017-11-05;5;estoy muy disconforme;1369
+4370;2013-10-03;5;estoy muy disconforme;1370
+4371;2020-08-11;4;estoy muy disconforme;1371
+4372;2023-03-24;9;servicio excelente;1372
+4373;2023-04-14;3;estoy muy disconforme;1373
+4374;2023-05-04;10;servicio excelente;1374
+4375;2023-03-26;7;todo muy bien;1375
+4376;2016-07-10;9;servicio excelente;1376
+4377;2020-08-04;9;servicio excelente;1377
+4378;2022-06-19;3;estoy muy disconforme;1378
+4379;2022-10-27;8;todo muy bien;1379
+4380;2021-09-03;4;estoy muy disconforme;1380
+4381;2020-04-15;2;estoy muy disconforme;1381
+4382;2024-04-01;10;servicio excelente;1382
+4383;2016-04-12;9;experiencia positiva;1383
+4384;2012-04-17;6;todo muy bien;1384
+4385;2010-01-10;2;estoy muy disconforme;1385
+4386;2022-06-25;7;todo muy bien;1386
+4387;2024-04-28;1;estoy muy disconforme;1387
+4388;2017-09-03;4;estoy muy disconforme;1388
+4389;2020-01-09;8;todo muy bien;1389
+4390;2023-03-23;7;muy recomendado;1390
+4391;2015-03-17;9;servicio excelente;1391
+4392;2022-05-05;7;todo muy bien;1392
+4393;2024-02-29;4;estoy muy disconforme;1393
+4394;2024-03-20;6;todo muy bien;1394
+4395;2011-04-01;2;estoy muy disconforme;1395
+4396;2011-08-12;5;estoy muy disconforme;1396
+4397;2013-01-13;7;muy recomendado;1397
+4398;2023-05-24;5;estoy muy disconforme;1398
+4399;2023-05-11;7;muy recomendado;1399
+4400;2019-03-27;6;todo muy bien;1400
+4401;2010-06-03;9;servicio excelente;1401
+4402;2010-10-19;3;estoy muy disconforme;1402
+4403;2023-04-17;4;estoy muy disconforme;1403
+4404;2015-08-16;5;estoy muy disconforme;1404
+4405;2013-04-12;5;estoy muy disconforme;1405
+4406;2014-07-20;3;estoy muy disconforme;1406
+4407;2010-01-03;6;muy recomendado;1407
+4408;2018-06-14;2;estoy muy disconforme;1408
+4409;2020-12-06;7;todo muy bien;1409
+4410;2022-05-11;9;servicio excelente;1410
+4411;2010-09-30;10;servicio excelente;1411
+4412;2012-01-25;7;todo muy bien;1412
+4413;2022-03-11;10;experiencia positiva;1413
+4414;2022-10-10;8;todo muy bien;1414
+4415;2020-08-28;10;experiencia positiva;1415
+4416;2010-06-17;10;experiencia positiva;1416
+4417;2022-09-18;5;estoy muy disconforme;1417
+4418;2023-08-24;8;todo muy bien;1418
+4419;2022-05-11;4;estoy muy disconforme;1419
+4420;2022-04-21;7;todo muy bien;1420
+4421;2017-07-31;6;todo muy bien;1421
+4422;2017-08-15;7;todo muy bien;1422
+4423;2022-04-12;7;todo muy bien;1423
+4424;2014-09-16;8;todo muy bien;1424
+4425;2015-08-19;7;todo muy bien;1425
+4426;2023-05-16;2;estoy muy disconforme;1426
+4427;2019-08-23;2;estoy muy disconforme;1427
+4428;2023-04-18;4;estoy muy disconforme;1428
+4429;2018-09-02;8;todo muy bien;1429
+4430;2012-05-31;1;estoy muy disconforme;1430
+4431;2012-07-10;2;estoy muy disconforme;1431
+4432;2022-09-27;7;todo muy bien;1432
+4433;2014-04-13;3;estoy muy disconforme;1433
+4434;2015-12-31;10;servicio excelente;1434
+4435;2024-02-20;10;experiencia positiva;1435
+4436;2024-02-10;8;todo muy bien;1436
+4437;2015-12-07;5;estoy muy disconforme;1437
+4438;2021-02-06;7;todo muy bien;1438
+4439;2019-11-24;9;servicio excelente;1439
+4440;2014-06-05;8;todo muy bien;1440
+4441;2015-09-18;5;estoy muy disconforme;1441
+4442;2019-01-22;7;todo muy bien;1442
+4443;2023-05-03;6;todo muy bien;1443
+4444;2022-04-18;9;servicio excelente;1444
+4445;2023-04-02;1;estoy muy disconforme;1445
+4446;2011-02-24;7;todo muy bien;1446
+4447;2023-06-29;4;estoy muy disconforme;1447
+4448;2013-04-11;1;estoy muy disconforme;1448
+4449;2023-03-13;10;experiencia positiva;1449
+4450;2022-01-01;6;todo muy bien;1450
+4451;2020-04-13;2;estoy muy disconforme;1451
+4452;2016-09-18;5;estoy muy disconforme;1452
+4453;2010-10-13;5;estoy muy disconforme;1453
+4454;2022-03-02;7;todo muy bien;1454
+4455;2017-06-12;1;estoy muy disconforme;1455
+4456;2023-06-29;10;servicio excelente;1456
+4457;2019-02-01;3;estoy muy disconforme;1457
+4458;2022-11-13;6;muy recomendado;1458
+4459;2018-07-04;8;todo muy bien;1459
+4460;2015-02-15;4;estoy muy disconforme;1460
+4461;2012-06-06;5;estoy muy disconforme;1461
+4462;2019-05-02;7;todo muy bien;1462
+4463;2022-03-12;10;servicio excelente;1463
+4464;2023-08-21;1;estoy muy disconforme;1464
+4465;2018-09-10;6;muy recomendado;1465
+4466;2014-11-17;5;estoy muy disconforme;1466
+4467;2024-01-09;7;todo muy bien;1467
+4468;2022-06-24;1;estoy muy disconforme;1468
+4469;2012-03-30;10;servicio excelente;1469
+4470;2016-04-24;10;experiencia positiva;1470
+4471;2021-07-22;7;todo muy bien;1471
+4472;2022-07-04;1;estoy muy disconforme;1472
+4473;2016-07-23;3;estoy muy disconforme;1473
+4474;2013-01-18;1;estoy muy disconforme;1474
+4475;2022-06-03;8;todo muy bien;1475
+4476;2018-10-10;5;estoy muy disconforme;1476
+4477;2023-05-03;9;experiencia positiva;1477
+4478;2018-10-25;7;todo muy bien;1478
+4479;2012-06-21;7;todo muy bien;1479
+4480;2018-10-13;2;estoy muy disconforme;1480
+4481;2022-03-14;9;servicio excelente;1481
+4482;2022-03-13;2;estoy muy disconforme;1482
+4483;2019-07-02;5;estoy muy disconforme;1483
+4484;2020-04-30;4;estoy muy disconforme;1484
+4485;2023-09-22;6;todo muy bien;1485
+4486;2022-02-18;8;todo muy bien;1486
+4487;2022-05-20;9;experiencia positiva;1487
+4488;2022-03-28;5;estoy muy disconforme;1488
+4489;2011-08-01;2;estoy muy disconforme;1489
+4490;2024-03-24;5;estoy muy disconforme;1490
+4491;2022-04-23;1;estoy muy disconforme;1491
+4492;2023-08-22;4;estoy muy disconforme;1492
+4493;2017-09-07;2;estoy muy disconforme;1493
+4494;2019-03-23;6;todo muy bien;1494
+4495;2020-01-11;9;experiencia positiva;1495
+4496;2021-06-26;7;todo muy bien;1496
+4497;2014-02-01;5;estoy muy disconforme;1497
+4498;2014-12-14;7;todo muy bien;1498
+4499;2021-09-22;8;todo muy bien;1499
+4500;2022-07-20;10;servicio excelente;1500
+4501;2012-08-13;5;estoy muy disconforme;1501
+4502;2022-08-13;4;estoy muy disconforme;1502
+4503;2024-04-08;6;muy recomendado;1503
+4504;2022-06-04;3;estoy muy disconforme;1504
+4505;2024-01-10;5;estoy muy disconforme;1505
+4506;2023-02-16;8;todo muy bien;1506
+4507;2011-02-15;8;todo muy bien;1507
+4508;2010-11-17;2;estoy muy disconforme;1508
+4509;2023-07-02;6;muy recomendado;1509
+4510;2019-07-15;10;experiencia positiva;1510
+4511;2022-02-18;2;estoy muy disconforme;1511
+4512;2022-04-30;10;servicio excelente;1512
+4513;2017-05-26;3;estoy muy disconforme;1513
+4514;2018-10-23;5;estoy muy disconforme;1514
+4515;2020-06-04;10;servicio excelente;1515
+4516;2013-10-31;10;experiencia positiva;1516
+4517;2023-06-26;7;todo muy bien;1517
+4518;2022-02-10;5;estoy muy disconforme;1518
+4519;2022-08-17;8;todo muy bien;1519
+4520;2015-05-12;7;todo muy bien;1520
+4521;2017-10-04;6;todo muy bien;1521
+4522;2024-02-12;8;todo muy bien;1522
+4523;2011-10-17;7;todo muy bien;1523
+4524;2016-04-25;2;estoy muy disconforme;1524
+4525;2014-01-10;7;todo muy bien;1525
+4526;2022-08-08;6;todo muy bien;1526
+4527;2011-11-15;3;estoy muy disconforme;1527
+4528;2019-01-12;10;servicio excelente;1528
+4529;2015-06-15;8;todo muy bien;1529
+4530;2012-05-22;9;servicio excelente;1530
+4531;2012-09-17;10;servicio excelente;1531
+4532;2014-05-26;3;estoy muy disconforme;1532
+4533;2019-07-28;8;todo muy bien;1533
+4534;2018-12-28;7;todo muy bien;1534
+4535;2013-11-15;10;experiencia positiva;1535
+4536;2012-12-26;6;todo muy bien;1536
+4537;2022-01-12;5;estoy muy disconforme;1537
+4538;2015-06-08;4;estoy muy disconforme;1538
+4539;2020-01-10;4;estoy muy disconforme;1539
+4540;2010-03-14;4;estoy muy disconforme;1540
+4541;2014-02-28;1;estoy muy disconforme;1541
+4542;2018-06-23;5;estoy muy disconforme;1542
+4543;2014-01-13;9;experiencia positiva;1543
+4544;2024-01-04;9;servicio excelente;1544
+4545;2016-03-28;9;experiencia positiva;1545
+4546;2022-09-26;10;experiencia positiva;1546
+4547;2021-02-10;6;todo muy bien;1547
+4548;2016-08-02;10;experiencia positiva;1548
+4549;2017-11-15;6;todo muy bien;1549
+4550;2012-12-03;10;experiencia positiva;1550
+4551;2022-02-16;8;todo muy bien;1551
+4552;2012-09-27;8;todo muy bien;1552
+4553;2019-11-18;7;todo muy bien;1553
+4554;2022-09-07;7;todo muy bien;1554
+4555;2020-02-19;2;estoy muy disconforme;1555
+4556;2010-10-04;1;estoy muy disconforme;1556
+4557;2024-01-01;5;estoy muy disconforme;1557
+4558;2019-07-21;10;servicio excelente;1558
+4559;2015-10-01;2;estoy muy disconforme;1559
+4560;2024-01-29;2;estoy muy disconforme;1560
+4561;2022-08-31;2;estoy muy disconforme;1561
+4562;2021-10-01;4;estoy muy disconforme;1562
+4563;2016-01-27;3;estoy muy disconforme;1563
+4564;2014-08-02;10;experiencia positiva;1564
+4565;2023-05-20;2;estoy muy disconforme;1565
+4566;2021-05-30;6;todo muy bien;1566
+4567;2012-04-14;6;todo muy bien;1567
+4568;2016-09-24;7;todo muy bien;1568
+4569;2017-04-29;8;todo muy bien;1569
+4570;2015-06-14;2;estoy muy disconforme;1570
+4571;2020-02-25;6;todo muy bien;1571
+4572;2023-07-15;7;todo muy bien;1572
+4573;2023-07-27;10;servicio excelente;1573
+4574;2022-04-17;7;todo muy bien;1574
+4575;2023-02-21;7;todo muy bien;1575
+4576;2022-09-09;5;estoy muy disconforme;1576
+4577;2018-03-29;5;estoy muy disconforme;1577
+4578;2018-05-20;1;estoy muy disconforme;1578
+4579;2023-09-09;8;todo muy bien;1579
+4580;2022-01-22;6;todo muy bien;1580
+4581;2022-07-06;8;todo muy bien;1581
+4582;2019-10-25;4;estoy muy disconforme;1582
+4583;2014-02-05;3;estoy muy disconforme;1583
+4584;2017-01-24;3;estoy muy disconforme;1584
+4585;2020-01-09;8;todo muy bien;1585
+4586;2023-09-17;4;estoy muy disconforme;1586
+4587;2022-01-26;3;estoy muy disconforme;1587
+4588;2021-12-10;2;estoy muy disconforme;1588
+4589;2022-06-05;7;todo muy bien;1589
+4590;2022-09-23;2;estoy muy disconforme;1590
+4591;2017-01-07;6;todo muy bien;1591
+4592;2024-02-03;2;estoy muy disconforme;1592
+4593;2019-06-15;8;todo muy bien;1593
+4594;2014-12-08;9;servicio excelente;1594
+4595;2018-10-07;3;estoy muy disconforme;1595
+4596;2022-06-08;6;todo muy bien;1596
+4597;2024-01-01;6;todo muy bien;1597
+4598;2022-03-14;5;estoy muy disconforme;1598
+4599;2014-04-14;9;servicio excelente;1599
+4600;2022-10-09;1;estoy muy disconforme;1600
+4601;2023-12-03;2;estoy muy disconforme;1601
+4602;2023-09-17;2;estoy muy disconforme;1602
+4603;2018-03-13;4;estoy muy disconforme;1603
+4604;2022-02-22;7;todo muy bien;1604
+4605;2022-09-21;1;estoy muy disconforme;1605
+4606;2014-01-26;4;estoy muy disconforme;1606
+4607;2013-04-15;3;estoy muy disconforme;1607
+4608;2021-04-04;1;estoy muy disconforme;1608
+4609;2021-09-23;4;estoy muy disconforme;1609
+4610;2010-04-11;10;servicio excelente;1610
+4611;2023-02-02;7;todo muy bien;1611
+4612;2014-02-03;10;servicio excelente;1612
+4613;2022-02-14;2;estoy muy disconforme;1613
+4614;2022-02-02;7;todo muy bien;1614
+4615;2019-03-30;5;estoy muy disconforme;1615
+4616;2022-04-05;2;estoy muy disconforme;1616
+4617;2023-06-01;10;servicio excelente;1617
+4618;2022-02-14;4;estoy muy disconforme;1618
+4619;2020-12-25;8;todo muy bien;1619
