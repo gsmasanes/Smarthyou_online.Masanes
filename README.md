@@ -1,2 +1,2 @@
-# Smarthyou_online.Masanes_EntregaFinal
+# Smarthyou_online.Masanes
 Entrega del Proyecto Final
