@@ -1,16 +1,16 @@
 <center>
-<img src="https://objetivo.news/download/multimedia.normal.bcba10cea1861629.Y29kZXJob3VzZS1xdWUtZXMtcXVlLWhhY2VuX25vcm1hbC53ZWJw.webp" style="width: 100% ; aspect-ratio:16/9">
+<img src=C:\Users\gmasanes\Desktop\SQL_2024\Imagenreedmi style="width: 100% ; aspect-ratio:16/9">
 </center>
 
 
 # <center>Entrega de proyecto final</center>
-@Alumno
+Alumno: Gisela Masanes
 
-@Comision
+Comisión: 53180
 
-@Tutor
+Tutor: Santiago Ángel González Martín
 
-@Docente
+Docente: Anderson Michel Torres
 
 
 
