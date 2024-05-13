@@ -13,8 +13,8 @@ JOIN clientes cl
 	ON c.id_cliente = cl.id_cliente
 GROUP BY cl.genero;
 
---SELECT * 
---FROM smarthyou_online.vw_compras_por_genero;
+-- SELECT * 
+-- FROM smarthyou_online.vw_compras_por_genero;
 
 -- 2)_Edad de mis clientes
 
@@ -25,10 +25,10 @@ CREATE OR REPLACE VIEW vw_edades_clientes AS
     JOIN clientes cl ON c.id_cliente = cl.id_cliente
     GROUP BY cl.edad;
 
---SELECT *
---FROM vw_edades_clientes
---ORDER BY total_compras DESC
---LIMIT 5;
+-- SELECT *
+-- FROM vw_edades_clientes
+-- ORDER BY total_compras DESC
+-- LIMIT 5;
 
 
 -- 3)_Equipos mas vendidos
