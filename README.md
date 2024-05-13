@@ -1,7 +1,6 @@
-<center>
-    <img src="file:///C:/Users/gmasanes/Desktop/SQL_2024/Imagenreedmi" style="width: 100%; aspect-ratio: 16/9">
-</center>
 
+</center>
+<img src="structure/data_imagen/Flyer.JPG" style="width: 100%; height: auto;">
 
 
 # <center>Entrega de proyecto final</center>
