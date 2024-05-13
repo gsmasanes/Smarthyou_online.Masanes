@@ -1,10 +1,11 @@
 <center>
-<img src=C:\Users\gmasanes\Desktop\SQL_2024\Imagenreedmi style="width: 100% ; aspect-ratio:16/9">
+    <img src="file:///C:/Users/gmasanes/Desktop/SQL_2024/Imagenreedmi" style="width: 100%; aspect-ratio: 16/9">
 </center>
 
 
+
 # <center>Entrega de proyecto final</center>
-Alumno: Gisela Masanes
+Alumno/a: Gisela Masanes
 
 Comisión: 53180
 
