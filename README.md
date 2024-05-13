@@ -42,11 +42,25 @@ Docente: Anderson Michel Torres
 
 ## Tematica del proyecto
 
+¡Bienvenidos al emocionante mundo de las compras en línea de teléfonos celulares! En un mundo cada vez más conectado, la conveniencia de adquirir productos desde la comodidad de nuestros hogares ha revolucionado la forma en que compramos. En respuesta a esta creciente demanda, nos complace presentarles nuestra tienda en línea, dedicada a ofrecer una amplia variedad de teléfonos celulares de última generación.
+
+## Mision
+
+El objetivo principal de nuestro proyecto es ofrecer a nuestros clientes una experiencia de compra en línea excepcional y sin complicaciones. Nos esforzamos por proporcionar una amplia selección de teléfonos celulares de alta calidad, junto con un sitio web fácil de usar que permita a nuestros clientes navegar, comparar y comprar sus dispositivos deseados con total confianza y seguridad.
+
 ## Modelo de negocio
+
+Nuestro modelo de negocio se centra en ofrecer una amplia selección de productos de calidad, una experiencia de compra sin complicaciones y un excelente servicio al cliente para satisfacer las necesidades de nuestros clientes y construir relaciones duraderas con ellos.
 
 ## Diagrama entidad relacion (DER)
 
+</center>
+<img src="structure/data_imagen/Imagen_der_1.JPG" style="width: 100%; height: auto;">
+
+
 ## Listado de tablas y descripcion
+
+
 
 ## Estructura e ingesta de datos
 
