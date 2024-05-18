@@ -115,3 +115,5 @@ Nuestro modelo de negocio se centra en ofrecer una amplia selección de producto
     <img src="structure/data_imagen/mockaroo.png" alt="Mockaroo" style="width: 100px; height: 100px; margin: 10px;">
     <img src="structure/data_imagen/coder.png" alt="Coder" style="width: 100px; height: 100px; margin: 10px;">
 </p>
+
+-- ver
