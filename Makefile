@@ -16,6 +16,7 @@ DATABASE_POPULATION=./structure/population.sql
 
 FILES := $(wildcard ./objects/*.sql)
 
+CURDATE := $(shell date --iso=seconds)
 
 .PHONY: all up objects clean
 
@@ -53,13 +54,13 @@ test-db:
 
 backup-db:
 
-@echo "Back up database by structure and data"
+	@echo "Back up database by structure and data"
 
-# Dump MySQL database to a file
+	# Dump MySQL database to a file
 
-docker exec -it $(SERVICE_NAME) mysqldump -u root -p$(PASSWORD) $(DATABASE) > ./backups/$(BACKUP_DIR_FILES)/$(DATABASE)-$(CURDATE).sql
+	docker exec -it $(SERVICE_NAME) mysqldump -u root -p$(PASSWORD) $(DATABASE) > ./backups/$(BACKUP_DIR_FILES)/$(DATABASE)-$(CURDATE).sql
 
-CURDATE=$(shell date --iso=seconds)
+	
 
 
 
