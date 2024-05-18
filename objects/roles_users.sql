@@ -1,7 +1,7 @@
 -- ROLES --
 
 USE information_schema;
-USE MYSQL;
+-- USE MYSQL;
 
 
 -- Crear roles
