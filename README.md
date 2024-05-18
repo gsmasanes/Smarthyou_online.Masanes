@@ -96,35 +96,22 @@ Nuestro modelo de negocio se centra en ofrecer una amplia selección de producto
 
 ## Back up de la base de datos
 
-## Herramientas y tecnologias usadas
-
+## Herramientas y tecnologías usadas
 
 <p align="center">
-    <img src="structure/data_imagen/mysql.png" alt="MySQL Workbench" style="float:left; margin-right:10px;"/>
-  
+    <img src="structure/data_imagen/mysql.png" alt="MySQL Workbench" style="width: 100px; height: 100px; margin: 10px;">
+    <img src="structure/data_imagen/ms_excel.png" alt="MS Excel" style="width: 100px; height: 100px; margin: 10px;">
+    <img src="structure/data_imagen/drive.png" alt="Google Drive" style="width: 100px; height: 100px; margin: 10px;">
 </p>
 
 <p align="center">
-    <img src="structure/data_imagen/ms_excel.png" alt="MySQL Workbench" style="float:left; margin-right:10px;"/>
-  
+    <img src="structure/data_imagen/canva.png" alt="Canva" style="width: 100px; height: 100px; margin: 10px;">
+    <img src="structure/data_imagen/github.png" alt="GitHub" style="width: 100px; height: 100px; margin: 10px;">
+    <img src="structure/data_imagen/vsc.png" alt="Visual Studio Code" style="width: 100px; height: 100px; margin: 10px;">
 </p>
 
 <p align="center">
-    <img src="structure/data_imagen/drive.png" alt="MySQL Workbench" style="float:left; margin-right:10px;"/>
-  
-</p>
-
-<p align="center">
-    <img src="structure/data_imagen/canva.png" alt="MySQL Workbench" style="float:left; margin-right:10px;"/>
-  
-</p>
-
-<p align="center">
-    <img src="structure/data_imagen/github.png" alt="MySQL Workbench" style="float:left; margin-right:10px;"/>
-  
-</p>
-
-<p align="center">
-    <img src="structure/data_imagen/vsc.png" alt="MySQL Workbench" style="float:left; margin-right:10px;"/>
-  
+    <img src="structure/data_imagen/docker.png" alt="Docker" style="width: 100px; height: 100px; margin: 10px;">
+    <img src="structure/data_imagen/mockaroo.png" alt="Mockaroo" style="width: 100px; height: 100px; margin: 10px;">
+    <img src="structure/data_imagen/coder.png" alt="Coder" style="width: 100px; height: 100px; margin: 10px;">
 </p>
