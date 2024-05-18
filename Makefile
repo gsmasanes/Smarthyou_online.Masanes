@@ -43,12 +43,24 @@ objects:
 
 test-db:
 	@echo "Testing the tables"
-	@TABLES=$$(docker exec -it $(SERVICE_NAME) mysql -u root -p$(PASSWORD) -N -B -e "USE $(DATABASE_NAME); SHOW TABLES;"); \
+	@TABLES=$$(docker exec -it $(SERVICE_NAME) mysql -u root -p$(PASSWORD) -e "USE $(DATABASE_NAME); SHOW TABLES;"); \
 	for TABLE in $$TABLES; do \
 		echo "Table: $$TABLE"; \
-		docker exec -it $(SERVICE_NAME) mysql -u root -p$(PASSWORD) -N -B -e "USE $(DATABASE_NAME); SELECT * FROM $$TABLE LIMIT 5;"; \
+		docker exec -it $(SERVICE_NAME) mysql -u root -p$(PASSWORD) -e "USE $(DATABASE_NAME); SELECT * FROM $$TABLE LIMIT 5;"; \
 		echo "----------------------------------------------"; \
 	done
+
+
+backup-db:
+
+@echo "Back up database by structure and data"
+
+# Dump MySQL database to a file
+
+docker exec -it $(SERVICE_NAME) mysqldump -u root -p$(PASSWORD) $(DATABASE) > ./backups/$(BACKUP_DIR_FILES)/$(DATABASE)-$(CURDATE).sql
+
+CURDATE=$(shell date --iso=seconds)
+
 
 
 access-db:
