@@ -116,4 +116,4 @@ Nuestro modelo de negocio se centra en ofrecer una amplia selección de producto
     <img src="structure/data_imagen/coder.png" alt="Coder" style="width: 100px; height: 100px; margin: 10px;">
 </p>
 
--- update
+-- update_ gmasanes 18-5
