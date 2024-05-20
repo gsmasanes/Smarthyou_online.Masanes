@@ -29,7 +29,7 @@ Docente: Anderson Michel Torres
     - [Documentación de Store-Procedure](#documentación-de-store-procedure)
     - [Documentación TCL](#documentación-tcl-autocommit) 
  7)  [Roles, Permisos y Usuarios](#roles-permisos-y-usuarios)
- 8) [Backup de la Base de Datos](#backup-de-la-base-de-datos)
+ 8) [Backup](#backup)
  9) [Herramientas y Tecnologías Usadas](#herramientas-y-tecnologías-usadas)
 
 
@@ -294,10 +294,13 @@ Se realiza una prueba de conexión para el user Nicolás Cage. Adjuntamos eviden
 
 ---
 
-## Back UP
+## Backup
 
 El backup fue generado a través del comando `make backup-db` ejecutado manualmente. El mismo puede ubicarse en la siguiente ubicació: `./backups/backup_smarthyou_online-2024-05-18.sql`
 
+[<- volver al índice](#indice)
+
+---
 ## Herramientas y tecnologías usadas
 
 <p align="center">
