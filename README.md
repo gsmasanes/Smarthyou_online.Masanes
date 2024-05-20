@@ -3,7 +3,7 @@
 <img src="structure/data_imagen/Flyer.JPG" style="width: 100%; height: auto;">
 
 
-## <center>Entrega de proyecto final</center>
+##  <center>Entrega de proyecto final</center>
 
 Alumno/a: Gisela Masanes
 
@@ -23,11 +23,11 @@ Docente: Anderson Michel Torres
  4) [Listado de Tablas y Descripción](#listado-de-tablas-y-descripción)
  5) [Ingesta de datos](#ingesta-de-datos)
  6) [Objetos de la Base de Datos](#objetos-de-la-base-de-datos)
-   - [Documentación de Vistas](#documentación-de-vistas)
-   - [Documentación de Funciones](#documentación-de-funciones)
-   - [Documentación de Triggers](#documentación-de-triggers)
-   - [Documentación de Store-Procedure](#documentación-de-store-procedure)
-   - [Documentación DCL](#documentación-dcl-autocommit) 
+    - [Documentación de Vistas](#documentación-de-vistas)
+    - [Documentación de Funciones](#documentación-de-funciones)
+    - [Documentación de Triggers](#documentación-de-triggers)
+    - [Documentación de Store-Procedure](#documentación-de-store-procedure)
+    - [Documentación TCL](#documentación-tcl-autocommit) 
  7)  [Roles, Permisos y Usuarios](#roles-permisos-y-usuarios)
  8) [Backup de la Base de Datos](#backup-de-la-base-de-datos)
  9) [Herramientas y Tecnologías Usadas](#herramientas-y-tecnologías-usadas)
@@ -123,7 +123,7 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 
 6) ## Objetos de la base de datos
 
-* ## documentación de vistas
+* ## Documentación de vistas
 ### Vista 1: Compras por género
 | #   | View_Nombre               | DESCRIPCIÓN                                                                       | TABLAS COMPROMETIDAS |
 |-----|---------------------------|-----------------------------------------------------------------------------------|----------------------|
@@ -132,7 +132,8 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 **Resultado de la consulta:**
 
 <img src="structure/data_imagen/vista_1.png" style="width: 100%; height: auto;">
----
+
+--- 
 
 ### Vista 2: Top_Five de edades que más compran en Smartyou
 
@@ -144,6 +145,8 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 
 <img src="structure/data_imagen/vista_2.png" style="width: 100%; height: auto;">
 
+--- 
+
 ### Vista 3: Equipos más vendidos
 
 | #   | View_Nombre               | DESCRIPCIÓN                                                                | TABLAS COMPROMETIDAS |
@@ -153,6 +156,8 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 **Resultado de la consulta:**
 
 <img src="structure/data_imagen/vista_3.png" style="width: 100%; height: auto;">
+
+--- 
 
 ### Vista 4: Gasto promedio de las compras de los clientes
 
@@ -164,6 +169,8 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 
 <img src="structure/data_imagen/vista_4.png" style="width: 100%; height: auto;">
 
+---
+
 ### Vista 5: Agrupar calificaciones de los clientes
 
 | #   | View_Nombre               | DESCRIPCIÓN                                                                        | TABLAS COMPROMETIDAS |
@@ -173,6 +180,8 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 **Resultado de la consulta:**
 
 <img src="structure/data_imagen/vista_5.png" style="width: 100%; height: auto;">
+
+---
 
 * ## Documentación de Funciones
 ### Función 1: Monto con IVA
@@ -184,6 +193,8 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 **Resultado de la consulta:**
 
 <img src="structure/data_imagen/funcion_1.png" style="width: 100%; height: auto;">
+
+---
 
 ### Función 2: Demora en días de entrega 
 
@@ -207,6 +218,8 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 **Resultado del disparador con un ejemplo concreto:**
 
 <img src="structure/data_imagen/trigger_1.png" style="width: 100%; height: auto;">
+
+---
 
 ### Triggers 2: Crea un respaldo para la modificacion de equipos
 
@@ -241,7 +254,7 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 
 <img src="structure/data_imagen/sp_1.png" style="width: 100%; height: auto;">
 
-## Documentación DCL Autocommit
+## Documentación TCL Autocommit
  
 Generamos la inserción manual de registros en la tabla equipos dentro de la base de datos smarthyou_online, desactivando el autocommit para tener mayor control sobre las transacciones.
 
@@ -250,9 +263,9 @@ Acciones que se tomaron:
 * Desactivar autocommit
 * Seleccionamos la base de datos
 * Iniciamos una transacción
-* Insertamos registros de Samsung: Se añaden cuatro nuevos teléfonos Samsung a la tabla equipos.
-* Generamos un punto de control dos puntos de control
-* Luego revalidamos mediante Rollback y commit los puntos de control
+* Insertamos registros a la tabla equipos.
+* Generamos dos puntos de control
+* Luego relevamos mediante Rollback y commit los puntos de control
 
 En resumen, el código inserta nuevos registros en dos fases, permite deshacer la segunda fase si es necesario y asegura que solo los registros deseados se confirmen en la base de datos, todo esto con la confirmación automática desactivada para un control manual de las transacciones.
 
@@ -271,14 +284,17 @@ Se generaron cuatro roles para áreas especificas de la companía y se asignaron
 Se adjunta evidencia de la creacion de roles:
 <img src="structure/data_imagen/roles.png" style="width: 100%; height: auto;">
 
-Se adjunta evidencia, prueba de conexión para el user Nicolás Cage.
+Se realiza una prueba de conexión para el user Nicolás Cage. Adjuntamos evidencia:
 <img src="structure/data_imagen/roles_2.png" style="width: 100%; height: auto;">
 
 
-### *La documentacion completa se visualizar en la siguiente ubicació: `./objects/roles_users.sql`
+### *La documentacion sobre roles se puede visualizar en la siguiente ubicació: `./objects/roles_users.sql`
 
+[<- volver al índice](#indice)
 
-## Back up de la base de datos
+---
+
+## Back UP
 
 El backup fue generado a través del comando `make backup-db` ejecutado manualmente. El mismo puede ubicarse en la siguiente ubicació: `./backups/backup_smarthyou_online-2024-05-18.sql`
 
