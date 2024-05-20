@@ -5,7 +5,7 @@
 
 ## <center>Entrega de proyecto final</center>
 
-Alumno/a: Gisela Masanes (grosa)
+Alumno/a: Gisela Masanes
 
 Comisión: 53180
 
@@ -19,7 +19,7 @@ Docente: Anderson Michel Torres
 
  1) [Temática del Proyecto](#temática-del-proyecto)
  2) [Modelo de Negocio](#modelo-de-negocio)
- 3) [Diagrama Entidad-Relación](#diagrama-entidad-relación)
+ 3) [Diagrama Entidad-Relación](#der)
  4) [Listado de Tablas y Descripción](#listado-de-tablas-y-descripción)
  5) [Ingesta de datos](#ingesta-de-datos)
  6) [Objetos de la Base de Datos](#objetos-de-la-base-de-datos)
@@ -27,12 +27,11 @@ Docente: Anderson Michel Torres
    - [Documentación de Funciones](#documentación-de-funciones)
    - [Documentación de Triggers](#documentación-de-triggers)
    - [Documentación de Store-Procedure](#documentación-de-store-procedure)
-   - [Documentación DCL-Autocommit](#DCL-Autocommit)
+   - [Documentación DCL](#documentación-dcl-autocommit) 
  7)  [Roles, Permisos y Usuarios](#roles-permisos-y-usuarios)
  8) [Backup de la Base de Datos](#backup-de-la-base-de-datos)
- - [Herramientas y Tecnologías Usadas](#herramientas-y-tecnologías-usadas)
- - [Instrucciones para Levantar el Proyecto en CodeSpaces GitHub](#instrucciones-para-levantar-el-proyecto-en-codespaces-github)
- - [Formato de Entrega](#formato-de-entrega)
+ 9) [Herramientas y Tecnologías Usadas](#herramientas-y-tecnologías-usadas)
+
 
 --- 
 
@@ -49,7 +48,7 @@ SmartHYou Online es una plataforma de comercio electrónico especializada en la 
 [<- volver al índice](#indice)
 
 --- 
-3) ## #diagrama-entidad-relación
+3) ## DER
 
 </center>
 <img src="structure/data_imagen/Imagen_der_1.JPG" style="width: 100%; height: auto;">
@@ -242,8 +241,20 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 
 <img src="structure/data_imagen/sp_1.png" style="width: 100%; height: auto;">
 
-## DCL-Autocommit
- ***FALTAAAA****
+## Documentación DCL Autocommit
+ 
+Generamos la inserción manual de registros en la tabla equipos dentro de la base de datos smarthyou_online, desactivando el autocommit para tener mayor control sobre las transacciones.
+
+Acciones que se tomaron:
+* Verificamos configuración de autocommit
+* Desactivar autocommit
+* Seleccionamos la base de datos
+* Iniciamos una transacción
+* Insertamos registros de Samsung: Se añaden cuatro nuevos teléfonos Samsung a la tabla equipos.
+* Generamos un punto de control dos puntos de control
+* Luego revalidamos mediante Rollback y commit los puntos de control
+
+En resumen, el código inserta nuevos registros en dos fases, permite deshacer la segunda fase si es necesario y asegura que solo los registros deseados se confirmen en la base de datos, todo esto con la confirmación automática desactivada para un control manual de las transacciones.
 
 [<- volver al índice](#indice)
 
@@ -269,7 +280,7 @@ Se adjunta evidencia, prueba de conexión para el user Nicolás Cage.
 
 ## Back up de la base de datos
 
-
+El backup fue generado a través del comando `make backup-db` ejecutado manualmente. El mismo puede ubicarse en la siguiente ubicació: `./backups/backup_smarthyou_online-2024-05-18.sql`
 
 ## Herramientas y tecnologías usadas
 

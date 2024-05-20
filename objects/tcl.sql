@@ -26,5 +26,4 @@ SAVEPOINT s2;
 ROLLBACK TO SAVEPOINT s1;
 COMMIT;
 
--- validamos:
--- SELECT * FROM equipos;
+-- Finalizado
