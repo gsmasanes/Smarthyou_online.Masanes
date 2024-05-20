@@ -28,9 +28,9 @@ Docente: Anderson Michel Torres
     - [Documentación de Triggers](#documentación-de-triggers)
     - [Documentación de Stored-Procedure](#documentación-de-stored-procedure)
     - [Documentación TCL](#documentación-tcl-autocommit) 
- 7)  [Roles, Permisos y Usuarios](#roles-permisos-y-usuarios)
- 8) [Backup](#backup)
- 9) [Herramientas y Tecnologías Usadas](#herramientas-y-tecnologías-usadas)
+    - [Roles, Permisos y Usuarios](#roles-permisos-y-usuarios)
+ 7) [Backup](#backup)
+ 8) [Herramientas y Tecnologías Usadas](#herramientas-y-tecnologías-usadas)
 
 
 --- 
@@ -271,10 +271,9 @@ En resumen, el código inserta nuevos registros en dos fases, permite deshacer l
 
 ### *La documentacion sobre autocommit se puede visualizar en la siguiente ubicació: `./objects/tcl.sql`
 
-[<- volver al índice](#indice)
-
 ---
-7) ## Roles-permisos y usuarios
+
+ ## Roles-permisos y usuarios
 
 Se generaron cuatro roles para áreas especificas de la companía y se asignaron a usuarios segun sus puestos laborales:
 
@@ -296,14 +295,14 @@ Se realiza una prueba de conexión para el user Nicolás Cage. Adjuntamos eviden
 
 ---
 
-## Backup
+7) ## Backup
 
 El backup fue generado a través del comando `make backup-db` ejecutado manualmente. El mismo puede ubicarse en la siguiente ubicación: `./backups/backup_smarthyou_online-2024-05-18.sql`
 
 [<- volver al índice](#indice)
 
 ---
-## Herramientas y tecnologías usadas
+8) ## Herramientas y tecnologías usadas
 
 <p align="center">
     <img src="structure/data_imagen/mysql.png" alt="MySQL Workbench" style="width: 50px; height: 50px; margin: 10px;">
@@ -323,4 +322,8 @@ El backup fue generado a través del comando `make backup-db` ejecutado manualme
     <img src="structure/data_imagen/coder.png" alt="Coder" style="width: 50px; height: 50px; margin: 10px;">
 </p>
 
+[<- volver al índice](#indice)
 
+---
+
+Fin.
