@@ -1,9 +1,9 @@
 
 </center>
-<img src="structure/data_imagen/Flyer.JPG" style="width: 100%; height: auto;">
+<img src= "structure/data_imagen/image.png" style="width: 100%; height: auto;">
 
 
-##  <center>Entrega de proyecto final</center>
+## <center>Entrega de proyecto final</center>
 
 Alumno/a: Gisela Masanes
 
@@ -325,5 +325,7 @@ El backup fue generado a través del comando `make backup-db` ejecutado manualme
 [<- volver al índice](#indice)
 
 ---
+-- Fin del documento --
 
-Fin.
+---
+
