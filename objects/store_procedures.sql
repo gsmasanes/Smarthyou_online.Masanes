@@ -28,7 +28,7 @@ CREATE PROCEDURE sp_monto_total_ventas_por_gama(
 )
 BEGIN
     SELECT e.gama,
-           SUM(p.monto) AS monto_total_ventas
+           CONCAT('$', FORMAT(SUM(p.monto), 2)) AS monto_total_ventas
     FROM compras c
     JOIN equipos e ON c.id_equipo = e.id_equipo
     JOIN pagos p ON c.id_order = p.id_compra
@@ -38,3 +38,5 @@ END //
 DELIMITER ;
 
 CALL sp_monto_total_ventas_por_gama(2024);
+
+-- Finalizado

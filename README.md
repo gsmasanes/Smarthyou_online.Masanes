@@ -3,7 +3,7 @@
 <img src="structure/data_imagen/Flyer.JPG" style="width: 100%; height: auto;">
 
 
-#<center>Entrega de proyecto final</center>
+## <center>Entrega de proyecto final</center>
 
 Alumno/a: Gisela Masanes (grosa)
 
@@ -18,37 +18,45 @@ Docente: Anderson Michel Torres
 ## Indice
 
  1) [Temática del Proyecto](#temática-del-proyecto)
- 2. [Modelo de Negocio](#modelo-de-negocio)
+ 2) [Modelo de Negocio](#modelo-de-negocio)
  3) [Diagrama Entidad-Relación](#diagrama-entidad-relación)
  4) [Listado de Tablas y Descripción](#listado-de-tablas-y-descripción)
  5) [Ingesta de datos](#ingesta-de-datos)
  6) [Objetos de la Base de Datos](#objetos-de-la-base-de-datos)
+   - [Documentación de Vistas](#documentación-de-vistas)
    - [Documentación de Funciones](#documentación-de-funciones)
    - [Documentación de Triggers](#documentación-de-triggers)
-   - [Documentación de Procedimientos Almacenados](#documentación-de-procedimientos-almacenados)
-   - [Documentación de Vistas](#documentación-de-vistas)
-   - [Roles, Permisos y Usuarios](#roles-permisos-y-usuarios)
- - [Backup de la Base de Datos](#backup-de-la-base-de-datos)
+   - [Documentación de Store-Procedure](#documentación-de-store-procedure)
+   - [Documentación DCL-Autocommit](#DCL-Autocommit)
+ 7)  [Roles, Permisos y Usuarios](#roles-permisos-y-usuarios)
+ 8) [Backup de la Base de Datos](#backup-de-la-base-de-datos)
  - [Herramientas y Tecnologías Usadas](#herramientas-y-tecnologías-usadas)
  - [Instrucciones para Levantar el Proyecto en CodeSpaces GitHub](#instrucciones-para-levantar-el-proyecto-en-codespaces-github)
  - [Formato de Entrega](#formato-de-entrega)
+
+--- 
 
 1) ## Temática del proyecto
 
 ¡Bienvenidos al emocionante mundo de las compras en línea de teléfonos celulares!. En un mundo cada vez más conectado, la conveniencia de adquirir productos desde la comodidad de nuestros hogares ha revolucionado la forma en que compramos. En respuesta a esta creciente demanda, nos complace presentarles nuestra tienda en línea, dedicada a ofrecer una amplia variedad de teléfonos celulares de última generación.
 
+--- 
 2) ## Modelo de Negocio
+
 Visión General:
 SmartHYou Online es una plataforma de comercio electrónico especializada en la venta de dispositivos tecnológicos, con un énfasis particular en teléfonos móviles de alta gama. Nuestra misión es ofrecer a los consumidores la última tecnología en dispositivos móviles con un servicio de atención al cliente de primer nivel y un sistema de logística eficiente.
 
 [<- volver al índice](#indice)
 
+--- 
 3) ## #diagrama-entidad-relación
 
 </center>
 <img src="structure/data_imagen/Imagen_der_1.JPG" style="width: 100%; height: auto;">
 
 [<- volver al índice](#indice)
+
+--- 
 
 4) ## Listado de tablas y descripción 
 
@@ -102,22 +110,27 @@ SmartHYou Online es una plataforma de comercio electrónico especializada en la 
 
 [<- volver al índice](#indice)
 
+---
+
 5) ## Ingesta de datos
 
 El diseño de creación y definición de la base de datos se encuentra en el archivo database_structure.sql, situado en la carpeta structure.
 
 La mayoría de las operaciones de carga de datos se llevan a cabo mediante el archivo population.sql.
 
+[<- volver al índice](#indice)
+
+---
 
 6) ## Objetos de la base de datos
 
-* ## Documentacion de Vistas
+* ## documentación de vistas
 ### Vista 1: Compras por género
 | #   | View_Nombre               | DESCRIPCIÓN                                                                       | TABLAS COMPROMETIDAS |
 |-----|---------------------------|-----------------------------------------------------------------------------------|----------------------|
 | 1   | vw_compras_por_genero     | Muestra el total de compras por género y el porcentaje que representan del total. | compras, clientes    |
 
-**Muestra del resultado de la consulta:**
+**Resultado de la consulta:**
 
 <img src="structure/data_imagen/vista_1.png" style="width: 100%; height: auto;">
 ---
@@ -128,7 +141,7 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 |-----|---------------------------|-----------------------------------------------------------------------|----------------------|
 | 2   | vw_edades_clientes        | Indica el total de compras agrupadas por edad de los clientes.        | compras, clientes    |
 
-**Muestra del resultado de la consulta:**
+**Resultado de la consulta:**
 
 <img src="structure/data_imagen/vista_2.png" style="width: 100%; height: auto;">
 
@@ -138,7 +151,7 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 |-----|---------------------------|----------------------------------------------------------------------------|----------------------|
 | 3   | vw_equipos_mas_vendidos   | Lista las marcas y descripciones de los equipos más vendidos, limitados a los top 5. | compras, equipos     |
 
-**Muestra del resultado de la consulta:**
+**Resultado de la consulta:**
 
 <img src="structure/data_imagen/vista_3.png" style="width: 100%; height: auto;">
 
@@ -148,7 +161,7 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 |-----|---------------------------|-------------------------------------------------------------------------------------------------------------|----------------------|
 | 4   | vw_promedio_gasto_clientes | Calcula el monto promedio que los clientes gastan en la tienda online para comprar un celular.              | pagos                |
 
-**Muestra del resultado de la consulta:**
+**Resultado de la consulta:**
 
 <img src="structure/data_imagen/vista_4.png" style="width: 100%; height: auto;">
 
@@ -158,7 +171,7 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 |-----|---------------------------|------------------------------------------------------------------------------------|----------------------|
 | 5   | vw_calificaciones_clientes | Agrupa y cuenta las calificaciones dadas por los clientes en sus comentarios.      | comentarios          |
 
-**Muestra del resultado de la consulta:**
+**Resultado de la consulta:**
 
 <img src="structure/data_imagen/vista_5.png" style="width: 100%; height: auto;">
 
@@ -169,67 +182,94 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 |---|---------------------|------------------------------------------------------------------|----------------------|
 | 1 | fn_monto_con_iva    | Devuelve el monto con un IVA del 21%                             | pagos              |
 
-**Muestra del resultado de la consulta:**
+**Resultado de la consulta:**
 
 <img src="structure/data_imagen/funcion_1.png" style="width: 100%; height: auto;">
 
+### Función 2: Demora en días de entrega 
+
+| # | Function_Nombre     | Descripción                                                      | Tablas Comprometidas |
+|---|---------------------|------------------------------------------------------------------|----------------------|
+| 2 | fn_demora_entrega   | Calcula la demora de entrega de un envío en días en función de un remito                | envios             |
+
+**Resultado de la consulta:**
+
+<img src="structure/data_imagen/funcion_2.png" style="width: 100%; height: auto;">
+
+---
+
+* ## Documentación de Triggers
+### Triggers 1: Crea un respaldo para insercion nuevos equipos
+
+| # | Triggers_Nombre     | Descripción                                                                     | Objetivo                                    | Tablas involucradas            |
+|---|---------------------|---------------------------------------------------------------------------------|---------------------------------------------|--------------------------------|
+| 1 | insert_before_equipos | Este trigger deja asiento en una tabla stage los insert que se realicen en la tabla equipos (before) | Resguardar información calificada para el negocio | Equipos/stage_insertion_equipos |
+
+**Resultado del disparador con un ejemplo concreto:**
+
+<img src="structure/data_imagen/trigger_1.png" style="width: 100%; height: auto;">
+
+### Triggers 2: Crea un respaldo para la modificacion de equipos
+
+| # | Triggers_Nombre     | Descripción                                                                     | Objetivo                                    | Tablas involucradas            |
+|---|---------------------|---------------------------------------------------------------------------------|---------------------------------------------|--------------------------------|
+| 2 | update_equipo_AU      | Este trigger deja asiento en una tabla stage las modificaciones que se realicen en la tabla equipos (after) | Resguardar información calificada para el negocio | Equipos/stage_update_equipos   |
+
+**Resultado del disparador con un ejemplo concreto:**
+
+<img src="structure/data_imagen/trigger_2.png" style="width: 100%; height: auto;">
+
+--- 
+
+## Documentación de store procedure
+### Stored_Procedure 1: Lista de compras por cliente
+
+| # | Stored_Procedure              | Descripción                                                                                       | Objetivo                                                           | Tablas                     |
+|---|------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------|
+| 1 | sp_obtener_compras_por_cliente | Este procedimiento devuelve una lista de compras realizadas por un cliente específico.           | Permite a los usuarios obtener rápidamente un historial de compras de un cliente en particular | Compras, Equipos          |
+
+**Resultado del disparador con un ejemplo concreto:**
+
+<img src="structure/data_imagen/sp_1.png" style="width: 100%; height: auto;">
+
+### Stored_Procedure 2: Ventas_anuales_por_gama
+
+| # | Stored_Procedure              | Descripción                                                                                       | Objetivo                                                           | Tablas                     |
+|---|------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------|
+| 2 | sp_monto_total_ventas_por_gama | Este procedimiento devuelve el monto total de ventas desglosado por gama de equipos para un año específico. | Proporciona información sobre el rendimiento de cada gama de productos en términos de ventas | Compras, Equipos, Pagos   |
+
+**Resultado del disparador con un ejemplo concreto:**
+
+<img src="structure/data_imagen/sp_1.png" style="width: 100%; height: auto;">
+
+## DCL-Autocommit
+ ***FALTAAAA****
+
+[<- volver al índice](#indice)
+
+---
+7) ## Roles-permisos y usuarios
+
+Se generaron cuatro roles para áreas especificas de la companía y se asignaron a usuarios segun sus puestos laborales:
+
+ `ROLE:ciberseguridad`
+ `ROLE:marketing`
+ `ROLE:cobranzas`
+ `ROLE:delivery`
+
+Se adjunta evidencia de la creacion de roles:
+<img src="structure/data_imagen/roles.png" style="width: 100%; height: auto;">
+
+Se adjunta evidencia, prueba de conexión para el user Nicolás Cage.
+<img src="structure/data_imagen/roles_2.png" style="width: 100%; height: auto;">
 
 
-**Descripción:** Esta función calcula el monto total incluyendo un impuesto del 21% (IVA).
-
-**Parámetros:**
-
-***mesa_id:** 
-
-**Retorno:**
-
-**TRUE**                                    **FALSE** 
-
-**Ejemplo de uso:**
-
-### Función: demora de tiempo de entrega a cliente
-**Descripción:** Esta función calcula la demora de entrega de un envío en días, tomando en cuenta la diferencia entre la fecha de inicio y la fecha de fin.
-
-**Parámetros:**
-
-***mesa_id:** 
-
-**Retorno:**
-
-**TRUE**                                    **FALSE** 
-
-**Ejemplo de uso:**
-
-### Función: Nombre del cliente
-**Descripción:** Esta función me devuelve el nombre completo de un cliente (nombre, apellido y edad) dado su ID.
-
-**Parámetros:**
-
-***mesa_id:** 
-
-**Retorno:**
-
-**TRUE**                                    **FALSE** 
-
-**Ejemplo de uso:**
-
-
-## Documentación de Triggers
-
-## Documentación stored_procedure
-
-## Roles y permisos
-
-`./objects/roles_users.sql`
-
-Se genera tres roles:
-
-
+### *La documentacion completa se visualizar en la siguiente ubicació: `./objects/roles_users.sql`
 
 
 ## Back up de la base de datos
 
-Se puede generar un comando en el archivo `make backup` que me permite ejecutar un backup de manera manual.
+
 
 ## Herramientas y tecnologías usadas
 

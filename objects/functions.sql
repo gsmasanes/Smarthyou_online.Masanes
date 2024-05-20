@@ -50,22 +50,4 @@ DELIMITER ;
 
 SELECT fn_demora_entrega(27533064) AS demora_rto_27533052;
 
-
--- 3)
-DROP FUNCTION IF EXISTS fn_nombre_cliente;
-
-DELIMITER //                            
-CREATE FUNCTION fn_nombre_cliente(P_ID INT)
-		RETURNS VARCHAR(50)
-		DETERMINISTIC
-        COMMENT "Esta funcion me devuelve los datos del cliente:Nombre/Apellido/Edad"
-BEGIN                    
-		DECLARE nombre_cliente VARCHAR(50);
-		SELECT CONCAT(nombre, " ", apellido, ",", " ", edad) INTO nombre_cliente
-		FROM clientes
-		WHERE id_cliente= p_id;
-   RETURN nombre_cliente;
-END //       
-DELIMITER  ;
- 
-SELECT fn_nombre_cliente(1000) AS "nombre del cliente";
+-- finalizado
