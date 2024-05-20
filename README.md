@@ -296,7 +296,7 @@ Se realiza una prueba de conexión para el user Nicolás Cage. Adjuntamos eviden
 
 ## Backup
 
-El backup fue generado a través del comando `make backup-db` ejecutado manualmente. El mismo puede ubicarse en la siguiente ubicació: `./backups/backup_smarthyou_online-2024-05-18.sql`
+El backup fue generado a través del comando `make backup-db` ejecutado manualmente. El mismo puede ubicarse en la siguiente ubicación: `./backups/backup_smarthyou_online-2024-05-18.sql`
 
 [<- volver al índice](#indice)
 
