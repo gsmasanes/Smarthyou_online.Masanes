@@ -42,13 +42,13 @@ ORDER BY cant_vendida DESC
 LIMIT 5;
 
 -- SELECT * 
--- FROM smarthyou_online.vw_top5_equipos_mas_vendidos;
+-- FROM smarthyou_online.vw_equipos_mas_vendidos;
 
 
--- 4)_Monto promedio que gastan los clientes para comprar un celular en la tienda on-line
+-- 4)_Monto promedio que gastan los clientes para comprar un celular en la tienda Smartyou
 
 CREATE OR REPLACE VIEW vw_promedio_gasto_clientes AS
-SELECT AVG(monto) AS promedio_gasto
+SELECT CONCAT('$', FORMAT(AVG(monto), 2)) AS gasto_promedio
 FROM pagos;
 
 

@@ -2,19 +2,21 @@
 
 USE smarthyou_online;
 -- 1)
-DROP FUNCTION IF EXISTS fn_monto_con_iva;
-
+DROP FUNCTION IF EXISTS fn_monto_con_iva ;
 DELIMITER //
 CREATE FUNCTION fn_monto_con_iva(monto_base DECIMAL(12, 2)) 
-    RETURNS DECIMAL(12, 2)
+    RETURNS VARCHAR(50)
     DETERMINISTIC
-    COMMENT 'Esta función devuelve el monto con un IVA del 21%'
+    COMMENT 'Esta función devuelve el monto con un IVA del 21% con el signo de pesos y dos decimales'
 BEGIN
     DECLARE monto_con_iva DECIMAL(12, 2);
-    SET monto_con_iva = monto_base * 1.21;
-    RETURN monto_con_iva;
-END//
+    DECLARE monto_con_iva_formato VARCHAR(50);
 
+    SET monto_con_iva = monto_base * 1.21;
+    SET monto_con_iva_formato = CONCAT('$', FORMAT(monto_con_iva, 2));
+
+    RETURN monto_con_iva_formato;
+END //
 DELIMITER ;
 
 

@@ -13,29 +13,44 @@ Tutor: Santiago Ángel González Martín
 
 Docente: Anderson Michel Torres
 
-
 ---
 
-## Tematica del proyecto
+## Indice
 
-¡Bienvenidos al emocionante mundo de las compras en línea de teléfonos celulares! En un mundo cada vez más conectado, la conveniencia de adquirir productos desde la comodidad de nuestros hogares ha revolucionado la forma en que compramos. En respuesta a esta creciente demanda, nos complace presentarles nuestra tienda en línea, dedicada a ofrecer una amplia variedad de teléfonos celulares de última generación.
+ 1) [Temática del Proyecto](#temática-del-proyecto)
+ 2. [Modelo de Negocio](#modelo-de-negocio)
+ 3) [Diagrama Entidad-Relación](#diagrama-entidad-relación)
+ 4) [Listado de Tablas y Descripción](#listado-de-tablas-y-descripción)
+ 5) [Ingesta de datos](#ingesta-de-datos)
+ 6) [Objetos de la Base de Datos](#objetos-de-la-base-de-datos)
+   - [Documentación de Funciones](#documentación-de-funciones)
+   - [Documentación de Triggers](#documentación-de-triggers)
+   - [Documentación de Procedimientos Almacenados](#documentación-de-procedimientos-almacenados)
+   - [Documentación de Vistas](#documentación-de-vistas)
+   - [Roles, Permisos y Usuarios](#roles-permisos-y-usuarios)
+ - [Backup de la Base de Datos](#backup-de-la-base-de-datos)
+ - [Herramientas y Tecnologías Usadas](#herramientas-y-tecnologías-usadas)
+ - [Instrucciones para Levantar el Proyecto en CodeSpaces GitHub](#instrucciones-para-levantar-el-proyecto-en-codespaces-github)
+ - [Formato de Entrega](#formato-de-entrega)
 
-## Misión
+1) ## Temática del proyecto
 
-El objetivo principal de nuestro proyecto es ofrecer a nuestros clientes una experiencia de compra en línea excepcional y sin complicaciones. Nos esforzamos por proporcionar una amplia selección de teléfonos celulares de alta calidad, junto con un sitio web fácil de usar que permita a nuestros clientes navegar, comparar y comprar sus dispositivos deseados con total confianza y seguridad.
+¡Bienvenidos al emocionante mundo de las compras en línea de teléfonos celulares!. En un mundo cada vez más conectado, la conveniencia de adquirir productos desde la comodidad de nuestros hogares ha revolucionado la forma en que compramos. En respuesta a esta creciente demanda, nos complace presentarles nuestra tienda en línea, dedicada a ofrecer una amplia variedad de teléfonos celulares de última generación.
 
-## Modelo de negocio
+2) ## Modelo de Negocio
+Visión General:
+SmartHYou Online es una plataforma de comercio electrónico especializada en la venta de dispositivos tecnológicos, con un énfasis particular en teléfonos móviles de alta gama. Nuestra misión es ofrecer a los consumidores la última tecnología en dispositivos móviles con un servicio de atención al cliente de primer nivel y un sistema de logística eficiente.
 
-Nuestro modelo de negocio se centra en ofrecer una amplia selección de productos de calidad, una experiencia de compra sin complicaciones y un excelente servicio al cliente para satisfacer las necesidades de nuestros clientes y construir relaciones duraderas con ellos.
+[<- volver al índice](#indice)
 
-## Diagrama entidad relacion (DER)
+3) ## #diagrama-entidad-relación
 
 </center>
 <img src="structure/data_imagen/Imagen_der_1.JPG" style="width: 100%; height: auto;">
 
+[<- volver al índice](#indice)
 
-## Listado de tablas y descripción 
-
+4) ## Listado de tablas y descripción 
 
 | #   | Nombre_tabla | Columna                                     | Descripción_breve                         | Tipo de dato       | Índice(es) | Valor_null | Auto_incremento |
 |-----|--------------|--------------------------------------------|-----------------------------------------------------|--------------------|-------------|------------|-----------------|
@@ -85,77 +100,81 @@ Nuestro modelo de negocio se centra en ofrecer una amplia selección de producto
 |     |              | fecha                                      | Fecha del pago                                     | DATE               | -           | Sí         | -               |
 |     |              | operacion_tipo                             | Tipo de operación del pago                         | VARCHAR(50)        | -           | Sí         |
 
+[<- volver al índice](#indice)
+
+5) ## Ingesta de datos
+
+El diseño de creación y definición de la base de datos se encuentra en el archivo database_structure.sql, situado en la carpeta structure.
+
+La mayoría de las operaciones de carga de datos se llevan a cabo mediante el archivo population.sql.
+
+
+6) ## Objetos de la base de datos
+
+* ## Documentacion de Vistas
+### Vista 1: Compras por género
+| #   | View_Nombre               | DESCRIPCIÓN                                                                       | TABLAS COMPROMETIDAS |
+|-----|---------------------------|-----------------------------------------------------------------------------------|----------------------|
+| 1   | vw_compras_por_genero     | Muestra el total de compras por género y el porcentaje que representan del total. | compras, clientes    |
+
+**Muestra del resultado de la consulta:**
+
+<img src="structure/data_imagen/vista_1.png" style="width: 100%; height: auto;">
+---
+
+### Vista 2: Top_Five de edades que más compran en Smartyou
+
+| #   | View_Nombre               | DESCRIPCIÓN                                                           | TABLAS COMPROMETIDAS |
+|-----|---------------------------|-----------------------------------------------------------------------|----------------------|
+| 2   | vw_edades_clientes        | Indica el total de compras agrupadas por edad de los clientes.        | compras, clientes    |
+
+**Muestra del resultado de la consulta:**
+
+<img src="structure/data_imagen/vista_2.png" style="width: 100%; height: auto;">
+
+### Vista 3: Equipos más vendidos
+
+| #   | View_Nombre               | DESCRIPCIÓN                                                                | TABLAS COMPROMETIDAS |
+|-----|---------------------------|----------------------------------------------------------------------------|----------------------|
+| 3   | vw_equipos_mas_vendidos   | Lista las marcas y descripciones de los equipos más vendidos, limitados a los top 5. | compras, equipos     |
+
+**Muestra del resultado de la consulta:**
+
+<img src="structure/data_imagen/vista_3.png" style="width: 100%; height: auto;">
+
+### Vista 4: Gasto promedio de las compras de los clientes
+
+| #   | View_Nombre               | DESCRIPCIÓN                                                                                                 | TABLAS COMPROMETIDAS |
+|-----|---------------------------|-------------------------------------------------------------------------------------------------------------|----------------------|
+| 4   | vw_promedio_gasto_clientes | Calcula el monto promedio que los clientes gastan en la tienda online para comprar un celular.              | pagos                |
+
+**Muestra del resultado de la consulta:**
+
+<img src="structure/data_imagen/vista_4.png" style="width: 100%; height: auto;">
+
+### Vista 5: Agrupar calificaciones de los clientes
+
+| #   | View_Nombre               | DESCRIPCIÓN                                                                        | TABLAS COMPROMETIDAS |
+|-----|---------------------------|------------------------------------------------------------------------------------|----------------------|
+| 5   | vw_calificaciones_clientes | Agrupa y cuenta las calificaciones dadas por los clientes en sus comentarios.      | comentarios          |
+
+**Muestra del resultado de la consulta:**
+
+<img src="structure/data_imagen/vista_5.png" style="width: 100%; height: auto;">
+
+* ## Documentación de Funciones
+### Función 1: Monto con IVA
+
+| # | Function_Nombre     | Descripción                                                      | Tablas Comprometidas |
+|---|---------------------|------------------------------------------------------------------|----------------------|
+| 1 | fn_monto_con_iva    | Devuelve el monto con un IVA del 21%                             | pagos              |
+
+**Muestra del resultado de la consulta:**
+
+<img src="structure/data_imagen/funcion_1.png" style="width: 100%; height: auto;">
 
 
 
-## Estructura e ingesta de datos
-
-Se realizar principalmente por medio del archivo population.sql
-Existen cargas de datos manuales en la tabla equipos
-
-## Objetos de la base de datos
-
-### Documentacion de Vistas
-
-### Vista: Compras por género.
-
-**Descripción:** Esta vista muestra la cantidad de compras y porcentaje de las mismas agrupadas por género.
-
-**Columnas:**
-
-
-Ejemplo de consulta:
-
-
-### Vista: Top5 edades que más compran
-
-**Descripción:** Esta vista muestra las cinco edades de clientes que más compran y la cantidad total de compras realizadas por cada edad
-
-**Columnas:**
-
-
-
-**Ejemplo de consulta:**
-
-
-
-### Vista: Top5_equipos_más_vendidos
-
-**Descripción:** Esta vista muestra los cinco equipos mas vendidos agrupados por marca/descripcion_equipo/cant_vendida
-
-**Columnas:**
-
-
-
-**Ejemplo de consulta:**
-
-
-
-### Vista: Promedio de gastos de mis clientes
-
-**Descripción:** Esta vista muestra el promedio del monto que los clientes gastan para comprar un celular en la tienda Smartyou.online
-
-**Columnas:**
-
-
-**Ejemplo de consulta:**
-
-
-
-### Vista: Calificaciones
-
-**Descripción:** Esta vista agrupa las calificaciones de los comentarios realizados por los clientes y muestra la cantidad de comentarios para cada calificación, ordenadas de manera descendente.
-
-**Columnas:**
-
-
-
-**Ejemplo de consulta:**
-
-
-## Documentación de Funciones
-
-### Función: mesa_cancelada
 **Descripción:** Esta función calcula el monto total incluyendo un impuesto del 21% (IVA).
 
 **Parámetros:**

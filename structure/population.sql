@@ -44,3 +44,6 @@ INTO TABLE pagos
 FIELDS TERMINATED BY ';' 
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
+
+-- Esta considerado el orden de la populacion para que no presente errores
+-- Finished
