@@ -113,9 +113,9 @@ SmartHYou Online es una plataforma de comercio electrónico especializada en la 
 
 5) ## Ingesta de datos
 
-El diseño de creación y definición de la base de datos se encuentra en el archivo database_structure.sql, situado en la carpeta structure.
+El diseño de creación y definición de la base de datos se encuentra en el archivo database_structure.sql.
 
-La mayoría de las operaciones de carga de datos se llevan a cabo mediante el archivo population.sql.
+La mayoría de las operaciones de carga de datos se llevan a cabo mediante el archivo :`./structure/population.sql`.
 
 [<- volver al índice](#indice)
 
