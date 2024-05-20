@@ -26,7 +26,7 @@ Docente: Anderson Michel Torres
     - [Documentación de Vistas](#documentación-de-vistas)
     - [Documentación de Funciones](#documentación-de-funciones)
     - [Documentación de Triggers](#documentación-de-triggers)
-    - [Documentación de Store-Procedure](#documentación-de-store-procedure)
+    - [Documentación de Stored-Procedure](#documentación-de-stored-procedure)
     - [Documentación TCL](#documentación-tcl-autocommit) 
  7)  [Roles, Permisos y Usuarios](#roles-permisos-y-usuarios)
  8) [Backup](#backup)
@@ -233,7 +233,7 @@ La mayoría de las operaciones de carga de datos se llevan a cabo mediante el ar
 
 --- 
 
-## Documentación de store procedure
+## Documentación de stored procedure
 ### Stored_Procedure 1: Lista de compras por cliente
 
 | # | Stored_Procedure              | Descripción                                                                                       | Objetivo                                                           | Tablas                     |

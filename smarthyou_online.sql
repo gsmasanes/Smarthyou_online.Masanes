@@ -103,3 +103,5 @@ ADD COLUMN id_order INT,
 ADD CONSTRAINT fk_comentarios_id_order
 FOREIGN KEY (id_order) REFERENCES compras(id_order);
 
+-- FINALIZADO
+
