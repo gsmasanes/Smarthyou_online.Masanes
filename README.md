@@ -269,6 +269,8 @@ Acciones que se tomaron:
 
 En resumen, el código inserta nuevos registros en dos fases, permite deshacer la segunda fase si es necesario y asegura que solo los registros deseados se confirmen en la base de datos, todo esto con la confirmación automática desactivada para un control manual de las transacciones.
 
+### *La documentacion sobre autocommit se puede visualizar en la siguiente ubicació: `./objects/tcl.sql`
+
 [<- volver al índice](#indice)
 
 ---
